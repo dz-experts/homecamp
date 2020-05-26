@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://ai-cluster.ru/homecamp"
+baseURL = "https:/dz-experts.github.io/homecamp"
 languageCode = "en-US"
 title = "WE Algerians Education homecamp"
 theme = "vixcon-hugo"
@@ -40,9 +40,7 @@ paginate = 4
 
 ############################## navigation ###############################
 [menu]
-    
- 
-  
+      
   [[menu.main]]
   name = "speakers"
   URL = "speaker"
