@@ -1,37 +1,37 @@
 ############################# banner ################################
 banner:
-  title : "Искусственный Интеллект. Цифровизация бизнеса. Конкурентные преимущества."
-  date : "20-е Февраля, в 10.00"
+  title : "WE Algerians Education homecamp"
+  date : "June, 20, at 18.00"
   button:
-    enable : "Участвовать"
-    label : "Участвовать"
+    enable : "Subscribe"
+    label : "Subscribe"
     link : "https://ai-cluster.timepad.ru/event/1252119/"
 
 ########################## Counter #################################
 counter:
-  enable : false
-  title : "**Конференция завершена**"
+  enable : true
+  title : "**Count the day** until homecamp start"
   # set timer
   year: "2020"
-  month: "02"
+  month: "06"
   day: "20"
-  hour: "10"
+  hour: "18"
 
 ############################## Event ##############################
 event:
   enable : true
   titleOutline : "event"
-  title : "Новая эра цифровизации"
+  title : "Education online event"
   imageBG: "images/about/h1-gallery-img-7.jpg"
   image : "images/about/main-home-img-1.jpg"
-  content : "- **AI-CLUSTER и АО «Коммерсантъ-Сибирь»**
+  content : "The objective of this homecamp is twofold: 
 
-- **совместно с ИМ СО РАН, НГУ, ПАО НИПС, АИР, Академпарк Новосибирск, I-VOICE, KamaFlow, HEALTHNET, Союз «Нейронет- Новосибирск»**
+  - introduce instructors and students to the world of online education and the flexibility it can offer during this pandemic; 
 
-- **при поддержке Администрации Новосибирской области**"
+  - provide a think tank to brainstorm about the future of the Algerian higher-education institutions and how they can be more competitive. "
   button:
     enable : true
-    label : "Участвовать"
+    label : "Subscribe"
     link : "https://ai-cluster.timepad.ru/event/1252119/"
 
 ######################### Call to action #########################
@@ -47,7 +47,7 @@ cta:
 
 ############################# Feature ###########################
 feature:
-  enable: true
+  enable: false
   featureItem: 
     # feature item loop
     - title : "Вопросы стратегического развития страны"
@@ -80,7 +80,7 @@ pricing:
 speaker:
   enable : true
   titleOutline : "Speakers"
-  title : "Спикеры и гости"
+  title : "Speakers and guests"
   # content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
   # speaker content comes from "content/speaker" folder
 
@@ -88,33 +88,17 @@ speaker:
 sponsor:
   enable :  true
   titleOutline : "Partners"
-  title : "Организаторы Партнеры"
+  title : "Organizers and Partners"
   sponsorGroup:
     ############################ sponsor group loop
-    - title : "Организаторы"
+    - title : "Organizers"
       sponsor:
         # sponcor loop
-        - logo : "images/clients/client-img-11.png"
-          link : "https://www.kommersant.ru/regions/54"
-          
-        # sponcor loop
-        - logo : "images/clients/client-img-12.png"
-          link : "https://ai-cluster.ru/"
-          
-        # sponcor loop
-        - logo : "images/clients/client-img-25.png"
-          link : "https://ivoice.tech/"
-          
-        # # sponcor loop
-        # - logo : "images/clients/client-img-4.png"
-        #   link : "#"
-          
-        # # sponcor loop
-        # - logo : "images/clients/client-img-5.png"
-        #   link : "#"
-          
+        - logo : "images/logo-we.png"
+          link : "https://www.wealgerians.org"
+      
     ############################ sponsor group loop
-    - title : "Партнеры"
+    - title : "Partners"
       sponsor:
         # sponcor loop
         - logo : "images/clients/client-img-26.png"
@@ -200,15 +184,13 @@ sponsor:
 cta2:
   enable : true
   image : "images/bg/cta-bg.jpg"
-  title : "Время и место проведения"
-  date : "20-21 Февраля, 2020"
-  content : "Николаева 12 (Большой зал), Академпарк, Новосибирск, Россия
-  
-  ##### Участие бесплатно, регистрация обязательна, количество мест ограничено."
+  title : "TIME AND VENUE"
+  date : "June 20-26, 2020"
+  content : "Online!"
   button: 
     enable : false
-    label : "View Map location"
-    link : "contact"
+    label : "Visit"
+    link : "visio"
 
 ############################### Blog ######################################
 blog:

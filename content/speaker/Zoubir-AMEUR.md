@@ -1,23 +1,12 @@
 ---
-title: "Виталий Гумиров"
+title: "Zoubir AMEUR"
 date: 2019-09-10T13:51:25+06:00
 draft: false
-description: "Виталий Гумиров"
+description: "Zoubir AMEUR"
 bgImage : "images/bg/cta-bg.jpg"
-image : "images/teams/s-12.jpg"
-designation : "Основатель и совладелец группы компаний Eyeline Communications. Эксперт АНО AI-Cluster."
-# email : "Martin@mail.com"
+image : "images/teams/zoubir-ameur.jpg"
+designation : "Inventor of Robot te3 Rwina"
 type : "speaker"
-# social:
-#   # social site loop
-#   - icon : "tf-ion-social-facebook"
-#     link : "#"
-#   # social site loop
-#   - icon : "tf-ion-social-twitter"
-#     link : "#"
-#   # social site loop
-#   - icon : "tf-ion-social-linkedin"
-#     link : "#"
 
 # professional skill
 # skill:

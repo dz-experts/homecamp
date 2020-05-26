@@ -1,23 +1,12 @@
 ---
-title: "Андрей Заворин"
+title: "Farouk YALAOUI"
 date: 2019-09-10T13:51:25+06:00
 draft: false
-description: "Андрей Заворин"
+description: "Farouk YALAOUI"
 bgImage : "images/bg/cta-bg.jpg"
-image : "images/teams/s-13.jpg"
-designation : "Исполнительный директор (CEO) IVoice Technology. Эксперт АНО AI-Cluster"
-# email : "Martin@mail.com"
+image : "images/teams/fakouk_yalaoui.png"
+designation : "Professor - UTT, France"
 type : "speaker"
-# social:
-#   # social site loop
-#   - icon : "tf-ion-social-facebook"
-#     link : "#"
-#   # social site loop
-#   - icon : "tf-ion-social-twitter"
-#     link : "#"
-#   # social site loop
-#   - icon : "tf-ion-social-linkedin"
-#     link : "#"
 
 # professional skill
 # skill:

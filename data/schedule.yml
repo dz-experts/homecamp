@@ -1,162 +1,210 @@
 schedule:
   enable : true
   titleOutline : "schedule"
-  title : "План мероприятий"
-  content : "**Встречи и общение с бизнесом, представителями правительства, науки и IT-компаний. Интересные доклады.**"
+  title : "Agenda"
+  content : "Planaries and workshops during a week about education in algeria"
   scheduleTab:
     ################################# tab itam loop
-    - title : "День 1"
-      subtitle : "20 Февраля,2020 [9.30 - 18.00]"
+    - title : "Day 1"
+      subtitle : "June, 20"
       tabContentList:
         # tab content list
-        - time : "9:30 – 10:00"
-          image : "images/about/signup.png"
+        - time : "18:00 – 19:30"
+          image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
-          ### Регистрация участников на круглый стол
+          ### Opening Planary
 
-          Вход по приглашению организаторов
+          Digitization of education in Algeria, why is it essential?
           "
                
         # tab content list
-        - time : "10:00 – 11:45"
-          image : "images/about/cifr.png"
+        - time : "20:00 – 21:00"
+          image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
-          ### Круглый стол
-
-          ###### Цифровая трансформация в России и в мире. Трансфер российских технологий. Россия и международное сотрудничество в области высоких технологий на базе AI.
-
-          Руководители профильных направлений администрации НСО и мэрии г.Новосибирска, представители МИДа в НСО, Консульские службы и почетные консулы иностранных государств (представленных в НСО), руководство НГУ, ИМ СО РАН, институтов СО РАН, АИР, Академпарк, ПАО НИПС, участники AI-CLUSTER обсудят международные проекты AI-CLUSTER, проблемы и пути решения, развитие в международном трансфере технологий. В рамках круглого стола будут представлены цифровые технологии мирового уровня и их продвижение за рубежом.
-          "
+          ### workshop 1.1
           
-        # tab content list
-        - time : "11:30 – 12:00"
-          image : "images/about/signup.png"
-          content : "
-          
-          ### Регистрация на конференцию
+          Educational and productivity tools"
 
-          Открытое участие
-          "
-         
-         # tab content list
-        - time : "12:00 – 13:15"
-          image : "images/about/cifr.png"
-          content : "
-          
-          ### Панельная дискуссия
-
-          ###### «Цифровая трансформация. Формулы успеха»
-
-          - «Опыт цифровизации в регионе – что было и что стало»? Администрация НСО.
-
--	«Развитие финансовых технологий в регионе». Сбербанк.
-
--	«Эффективность венчурных инвестиций в проекты цифровизации». РВК.
-
--	«Международный трансфер высоких технологий». НГУ.
-
-- «Цифровизация в Госсекторе». ПАО НИПС.
-
-- «ИИ мода или необходимость». Новосибирский Академпарк.
-          "
-
-        # tab content list
-        - time : "13:15 – 14:00"
-          image : "images/about/cofe.png"
-          content : "
-          
-          ### Кофе-брейк
-          "
-          
-        # tab content list
-        - time : "14:00 – 15:40"
-          image : "images/about/cifr.png"
-          content : "
-          
-          ### Теория и практика
-
-          ###### «Трансфер высоких технологий на базе ИИ»
-
-          - «Инструменты поддержки для компаний НТИ». Гейло Сергей Владимирович, Директор центра развития средних технологических компаний АО РВК.
-
--  «Фундаментальная наука - основа будущего превосходства ИИ». Свириденко Дмитрий Иванович, советник по инновациям директора Института математики СО РАН, профессор Новосибирского государственного университета, д. ф.-м. н.
-
--  «Как вписать Искусственный Интеллект в стратегию организации». Гумиров Виталий, CEO Eyeline group. Болдырев Игорь, директор AI-Cluster.
-
--  «Целесообразно ли бизнесу вкладываться в цифровые технологии и продукты?». Голенков Александр, директор по развитию RT Cloud.
-
--  «Кибербезопасность в эпоху цифровизации». Помешкин Андрей, Директор ООО «Системы информационной безопасности».          
-          "
-
-        # tab content list
-        - time : "15:40 – 16:00"
-          image : "images/about/cofe.png"
-          content : "
-          
-          ### Кофе-брейк
-          "
-
-        # tab content list
-        - time : "16:00 – 18:00"
-          image : "images/about/cifr.png"
-          content : "
-          
-          ### Брейн-ринг
-
-          ###### «Опыт внедрений решений на основе ИИ в бизнес и власть»
-
-          -	«Голосовые помощники – возможности для бизнеса и власти». Заворин Андрей, управляющий партнер  IVoice Technology Group.
-
--	«Венчурные инвестиции в Deep Tech: специфика и возможности». Охонин Павел, Исполнительный директор KamaFlow.
-
--	«Автоматизация управления техникой и персоналом в промышленности». Якушев Илья, президент RIT Automation.
-
--	«Автоматизация контрактной деятельности – снижение издержек». ПАО НИПС, AI-Cluster.
-
--	«Хранение данных – систематизация знаний». BACUP IT.
-          "
-          
-    ################################# tab itam loop
-    - title : "День 2"
-      subtitle : "21 февраля, 2020 [10.00 - 17.00]"
+    - title : "Day 2"
+      subtitle : "June, 21"
       tabContentList:
         # tab content list
-        - time : "10.00 - 17.00"
-          image : "images/about/ai.png"
+        - time : "18:00 – 19:00"
+          image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
-          ### Стратегическая сессия
+          ### Planary
 
-          ###### по проектированию Дорожной карты «Повышения индекса готовности отраслей и городов к внедрению ИИ»
-
-          Участие по приглашению организаторов.
-
-          Место проведения: Технопарк, Николаева, 11, Точка Кипения
+          Digitization of education in Algeria, why is it essential?
           "
-
-        # # tab content list
-        # - time : "9.00am"
-        #   image : "images/about/wordpress.png"
-        #   content : "
+               
+        # tab content list
+        - time : "19:00 – 20:00"
+          image : "images/about/undraw_shared_workspace_hwky.svg"
+          content : "
           
-        #   ### Launch Break
-
-        #   ###### By Risabh moinul
-
-        #   CEo of themefisher
-        #   "
+          ### workshop 2.1
           
-        # # tab content list
-        # - time : "9.00am"
-        #   image : "images/about/big-data.png"
-        #   content : "
+          Educational and productivity tools"
+
+        - time : "21:00 – 21:00"
+          image : "images/about/undraw_co-working_825n.svg"
+          content : "
           
-        #   ### Marketing Matters in design area
+          ### workshop 2.1
+          
+          Educational and productivity tools"
+          
+    - title : "Day 3"
+      subtitle : "June, 22"
+      tabContentList:
+        # tab content list
+        - time : "18:00 – 19:00"
+          image : "images/about/undraw_video_call_kxyp.svg"
+          content : "
+          
+          ### Planary
 
-        #   ###### By Risabh moinul
+          Digitization of education in Algeria, why is it essential?
+          "
+               
+        # tab content list
+        - time : "19:00 – 20:00"
+          image : "images/about/undraw_shared_workspace_hwky.svg"
+          content : "
+          
+          ### workshop 3.1
+          
+          Educational and productivity tools"
 
-        #   CEo of themefisher
-        #   "
+        - time : "21:00 – 21:00"
+          image : "images/about/undraw_co-working_825n.svg"
+          content : "
+          
+          ### workshop 3.2
+          
+          Educational and productivity tools"
+          
+    - title : "Day 4"
+      subtitle : "June, 23"
+      tabContentList:
+        # tab content list
+        - time : "18:00 – 19:00"
+          image : "images/about/undraw_video_call_kxyp.svg"
+          content : "
+          
+          ### Planary
+
+          Digitization of education in Algeria, why is it essential?
+          "
+               
+        # tab content list
+        - time : "19:00 – 20:00"
+          image : "images/about/undraw_shared_workspace_hwky.svg"
+          content : "
+          
+          ### workshop 4.1
+          
+          Educational and productivity tools"
+
+        - time : "21:00 – 21:00"
+          image : "images/about/undraw_co-working_825n.svg"
+          content : "
+          
+          ### workshop 4.2
+          
+          Educational and productivity tools"
+          
+    - title : "Day 5"
+      subtitle : "June, 24"
+      tabContentList:
+        # tab content list
+        - time : "18:00 – 19:00"
+          image : "images/about/undraw_video_call_kxyp.svg"
+          content : "
+          
+          ### Planary
+
+          Digitization of education in Algeria, why is it essential?
+          "
+               
+        # tab content list
+        - time : "19:00 – 20:00"
+          image : "images/about/undraw_shared_workspace_hwky.svg"
+          content : "
+          
+          ### workshop 5.1
+          
+          Educational and productivity tools"
+
+        - time : "21:00 – 21:00"
+          image : "images/about/undraw_co-working_825n.svg"
+          content : "
+          
+          ### workshop 5.2
+          
+          Educational and productivity tools"
+          
+    - title : "Day 6"
+      subtitle : "June, 25"
+      tabContentList:
+        # tab content list
+        - time : "18:00 – 19:00"
+          image : "images/about/undraw_video_call_kxyp.svg"
+          content : "
+          
+          ### Planary
+
+          Digitization of education in Algeria, why is it essential?
+          "
+               
+        # tab content list
+        - time : "19:00 – 20:00"
+          image : "images/about/undraw_shared_workspace_hwky.svg"
+          content : "
+          
+          ### workshop 6.1
+          
+          Educational and productivity tools"
+
+        - time : "21:00 – 21:00"
+          image : "images/about/undraw_co-working_825n.svg"
+          content : "
+          
+          ### workshop 6.2
+          
+          Educational and productivity tools"
+          
+       
+    - title : "Day 7"
+      subtitle : "June, 26"
+      tabContentList:
+        # tab content list
+        - time : "18:00 – 19:00"
+          image : "images/about/undraw_video_call_kxyp.svg"
+          content : "
+          
+          ### Planary
+
+          Digitization of education in Algeria, why is it essential?
+          "
+               
+        # tab content list
+        - time : "19:00 – 20:00"
+          image : "images/about/undraw_shared_workspace_hwky.svg"
+          content : "
+          
+          ### workshop 7.1
+          
+          Educational and productivity tools"
+
+        - time : "21:00 – 21:00"
+          image : "images/about/undraw_co-working_825n.svg"
+          content : "
+          
+          ### workshop 7.2
+          
+          Educational and productivity tools"
           

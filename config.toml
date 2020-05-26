@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://ai-cluster.ru/conf"
-languageCode = "ru-ru"
-title = "Конференция| Искусственный Интеллект. Цифровизация бизнеса. Конкурентные преимущества"
+baseURL = "https://ai-cluster.ru/homecamp"
+languageCode = "en-US"
+title = "WE Algerians Education homecamp"
 theme = "vixcon-hugo"
 summaryLength = "10"
 paginate = 4
@@ -41,52 +41,40 @@ paginate = 4
 ############################## navigation ###############################
 [menu]
     
-  [[menu.main]]
-  name = "О конференции"
-  URL = "about"
-  weight = 2
+ 
   
-  # [[menu.main]]
-  # name = "Спикеры"
-  # URL = "speaker"
-  # weight = 3
+  [[menu.main]]
+  name = "speakers"
+  URL = "speaker"
+  weight = 3
 
-  # [[menu.main]]
-  # weight = 4
-  # name = "Pages"
-  # hasChildren = true
+  [[menu.main]]
+  weight = 4
+  name = "Tutorials"
+  hasChildren = true
 
-  #   [[menu.main]]
-  #   parent = "Pages"
-  #   name = "Tickets"
-  #   URL = "pricing"
-
-  #   # [[menu.main]]
-  #   # parent = "Pages"
-  #   # name = "Blog"
-  #   # URL = "blog"
+  [[menu.main]]
+  parent = "Tutorials"
+  name = "Distance Education"
+  URL = "distance-education"
+ 
 
     [[menu.main]]
-    # parent = "Pages"
-    name = "Расписание"
+    name = "schedule"
     URL = "schedule"
 
-  #   [[menu.main]]
-  #   parent = "Pages"
-  #   name = "FAQ"
-  #   URL = "faq"
-    
-  # [[menu.main]]
-  # name = "Контакты"
-  # URL = "contact"
-  # weight = 5
+     [[menu.main]]
+     parent = "Pages"
+     name = "FAQ"
+     URL = "faq"
+   
 
 #################### default parameters ################################
 [params]
-logo = "images/Logo_AI_Cluster_Kommersant.png"
-home = "Главная"
+logo = "images/logo-we.png"
+home = "Home"
 # Meta data
-description = "Искусственный Интеллект. Цифровизация бизнеса. Конкурентные преимущества"
+description = "WE Algerians Education homecamp"
 author = "Themefisher"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
@@ -103,32 +91,25 @@ googleAnalitycsID = "Your ID"
   # Navigation get start button
   [params.navBtn]
   enable = true
-  label = "Регистрация"
+  label = "Subscribe"
   link = "https://ai-cluster.timepad.ru/event/1252119/"
 
   ############################## footer ################################
   [params.footer]
-  title = "AI-CLUSTER и АО «Коммерсантъ-Сибирь»"
-  content = "совместно с ИМ СО РАН, НГУ, ПАО НИПС, АИР, Академпарк Новосибирск, I-VOICE, KamaFlow, HEALTHNET, Союз «Нейронет-Новосибирск» при поддержке Администрации Новосибирской области"
-  copyright = "Copyright Reserved to AI-cluster. 2020"
+  title = "WE Algerians Education homecamp"
+  content = "The objective of this homecamp is twofold: (1) to introduce instructors and students to the world of online education and the flexibility it can offer during this pandemic; and (2) to provide a think tank to brainstorm about the future of the Algerian higher-education institutions and how they can be more competitive."
+  copyright = "Copyright Reserved to WE-Algerians. 2020"
 
   ############################# social icon ############################
-  # [[params.social]]
-  # icon = "tf-ion-social-facebook"
-  # link = "#"
+ [[params.social]]
+ icon = "tf-ion-social-facebook"
+ link = "#"
   
-  # [[params.social]]
-  # icon = "tf-ion-social-twitter"
-  # link = "#"
+[[params.social]]
+icon = "tf-ion-social-twitter"
+link = "#"
   
-  # [[params.social]]
-  # icon = "tf-ion-social-linkedin"
-  # link = "#"
+[[params.social]]
+icon = "tf-ion-social-linkedin"
+link = "#"
   
-  # [[params.social]]
-  # icon = "tf-ion-social-pinterest"
-  # link = "#"
-  
-  # [[params.social]]
-  # icon = "tf-ion-social-rss"
-  # link = "#"
