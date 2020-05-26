@@ -90,7 +90,7 @@ googleAnalitycsID = "Your ID"
   [params.navBtn]
   enable = true
   label = "Subscribe"
-  link = "https://ai-cluster.timepad.ru/event/1252119/"
+  link = "#"
 
   ############################## footer ################################
   [params.footer]

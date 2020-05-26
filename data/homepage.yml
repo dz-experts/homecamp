@@ -5,7 +5,7 @@ banner:
   button:
     enable : "Subscribe"
     label : "Subscribe"
-    link : "https://ai-cluster.timepad.ru/event/1252119/"
+    link : "#"
 
 ########################## Counter #################################
 counter:
@@ -32,7 +32,7 @@ event:
   button:
     enable : true
     label : "Subscribe"
-    link : "https://ai-cluster.timepad.ru/event/1252119/"
+    link : "#"
 
 ######################### Call to action #########################
 cta:
