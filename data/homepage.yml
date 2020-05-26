@@ -1,0 +1,219 @@
+############################# banner ################################
+banner:
+  title : "Искусственный Интеллект. Цифровизация бизнеса. Конкурентные преимущества."
+  date : "20-е Февраля, в 10.00"
+  button:
+    enable : "Участвовать"
+    label : "Участвовать"
+    link : "https://ai-cluster.timepad.ru/event/1252119/"
+
+########################## Counter #################################
+counter:
+  enable : false
+  title : "**Конференция завершена**"
+  # set timer
+  year: "2020"
+  month: "02"
+  day: "20"
+  hour: "10"
+
+############################## Event ##############################
+event:
+  enable : true
+  titleOutline : "event"
+  title : "Новая эра цифровизации"
+  imageBG: "images/about/h1-gallery-img-7.jpg"
+  image : "images/about/main-home-img-1.jpg"
+  content : "- **AI-CLUSTER и АО «Коммерсантъ-Сибирь»**
+
+- **совместно с ИМ СО РАН, НГУ, ПАО НИПС, АИР, Академпарк Новосибирск, I-VOICE, KamaFlow, HEALTHNET, Союз «Нейронет- Новосибирск»**
+
+- **при поддержке Администрации Новосибирской области**"
+  button:
+    enable : true
+    label : "Участвовать"
+    link : "https://ai-cluster.timepad.ru/event/1252119/"
+
+######################### Call to action #########################
+cta:
+  enable : false
+  subtitle : "10% Sale offer for early birds"
+  title : "Meet top **digital masters** <br>& influencers in a unique **3-days** experience."
+  image : "images/banner/rev-slider-09.png"
+  button:
+    enable :  true
+    label : "get ticket"
+    link: "pricing"
+
+############################# Feature ###########################
+feature:
+  enable: true
+  featureItem: 
+    # feature item loop
+    - title : "Вопросы стратегического развития страны"
+      icon : "tf-ion-android-microphone"
+      content : "Главной темой заседания Совета при президенте по стратегическому развитию и приоритетным проектам стала цифровая экономика. Владимир Путин сравнил этот масштабный проект с электрификацией."
+      
+    # feature item loop
+    - title : "Международная аудитория"
+      icon : "tf-ion-android-globe"
+      content : "**Круглый стол. Цифровая трансформация в России и в мире. Трансфер российских технологий.**
+
+Участвуют администрация НСО и мэрии, представители МИДа, консулы иностранных государств, руководство НГУ, ИМ СО РАН, институтов СО РАН, АИР, Академпарк, ПАО НИПС, участники AI-CLUSTER."
+      
+    # feature item loop
+    - title : "Бизнес-общение"
+      icon : "tf-ion-android-share"
+      content : "Представители бизнеса, науки и IT-компаний, при поддержке правительства области, знакомятся, обсуждают насущные проблемы и пути их решения при помощи современных технологий."
+
+####################### Schedule #############################
+schedule:
+  enable : true
+  # schedule data comes from "schedule.yml" file
+
+####################### pricing #############################
+pricing:
+  enable : false
+  # pricing data comes from "pricing.yml" file
+
+########################## speaker ##########################
+speaker:
+  enable : true
+  titleOutline : "Speakers"
+  title : "Спикеры и гости"
+  # content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
+  # speaker content comes from "content/speaker" folder
+
+######################### sponsor ############################
+sponsor:
+  enable :  true
+  titleOutline : "Partners"
+  title : "Организаторы Партнеры"
+  sponsorGroup:
+    ############################ sponsor group loop
+    - title : "Организаторы"
+      sponsor:
+        # sponcor loop
+        - logo : "images/clients/client-img-11.png"
+          link : "https://www.kommersant.ru/regions/54"
+          
+        # sponcor loop
+        - logo : "images/clients/client-img-12.png"
+          link : "https://ai-cluster.ru/"
+          
+        # sponcor loop
+        - logo : "images/clients/client-img-25.png"
+          link : "https://ivoice.tech/"
+          
+        # # sponcor loop
+        # - logo : "images/clients/client-img-4.png"
+        #   link : "#"
+          
+        # # sponcor loop
+        # - logo : "images/clients/client-img-5.png"
+        #   link : "#"
+          
+    ############################ sponsor group loop
+    - title : "Партнеры"
+      sponsor:
+        # sponcor loop
+        - logo : "images/clients/client-img-26.png"
+          link : "http://www.math.nsc.ru/"
+
+        # sponcor loop
+        - logo : "images/clients/client-img-13.png"
+          link : "https://www.nsu.ru/n/"
+          
+        # sponcor loop
+        - logo : "images/clients/client-img-14.png"
+          link : "#"
+          
+        # sponcor loop
+        - logo : "images/clients/client-img-20.png"
+          link : "#"
+          
+        # sponcor loop
+        - logo : "images/clients/client-img-16.png"
+          link : "https://academpark.com/"
+
+        # sponcor loop
+        - logo : "images/clients/client-img-30.png"
+          link : "http://rit-it.com/ru/"
+          
+        # sponcor loop
+        - logo : "images/clients/client-img-18.png"
+          link : "http://rusneuro.net/"
+          
+        # sponcor loop
+        - logo : "images/clients/client-img-28.png"
+          link : "https://expasoft.com/ru/"
+          
+        # sponcor loop
+        - logo : "images/clients/client-img-22.png"
+          link : "http://nips.ru/"
+          
+        # sponcor loop
+        - logo : "images/clients/client-img-34.png"
+          link : "https://eyeline.mobi/"
+
+        # sponcor loop
+        - logo : "images/clients/client-img-33.png"
+          link : "https://air-nso.ru/ru/"
+
+        # sponcor loop
+        - logo : "images/clients/client-img-27.png"
+          link : "http://healthnet.academpark.com/"
+
+        # sponcor loop
+        - logo : "images/clients/client-img-24.png"
+          link : "https://kamaflow.com/ru/"
+
+        # sponcor loop
+        - logo : "images/clients/client-img-31.png"
+          link : "https://sib-nsk.net/"
+          
+        # sponcor loop
+        - logo : "images/clients/client-img-29.png"
+          link : "https://bacup.ru/"
+
+        # sponcor loop
+        - logo : "images/clients/client-img-35.png"
+          link : "https://www.vot-takie-pirogi.ru/"
+
+        # sponcor loop
+        - logo : "images/clients/client-img-32.png"
+          link : "http://aigents.com/"
+
+        # sponcor loop
+        - logo : "images/clients/client-img-36.png"
+          link : "https://astralinux.ru/"          
+  
+  # call to action in sponsor
+  cta:
+    enable : false
+    title : "Want to be a sponsor ?"
+    #button
+    label : "apply now"
+    link : "#"
+
+################################ call to action 2 ########################
+cta2:
+  enable : true
+  image : "images/bg/cta-bg.jpg"
+  title : "Время и место проведения"
+  date : "20-21 Февраля, 2020"
+  content : "Николаева 12 (Большой зал), Академпарк, Новосибирск, Россия
+  
+  ##### Участие бесплатно, регистрация обязательна, количество мест ограничено."
+  button: 
+    enable : false
+    label : "View Map location"
+    link : "contact"
+
+############################### Blog ######################################
+blog:
+  enable : false
+  titleOutline : "News"
+  title : "Latest News"
+  content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
+  # blog content comes from "content/blog" folder

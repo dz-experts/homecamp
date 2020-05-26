@@ -1,0 +1,15 @@
+####################### contact info #################
+contactInfo:
+  enable : true
+  title : "Место проведения конференции"
+  subtitle : "20 февраля, 2020"
+  content : "Новосибирск, Технопарк <br> Николаева 12"
+  email : "bia10@ai-cluster.ru"
+
+
+#################### contact form ######################
+form:
+  enable : true
+  title : "Связаться с организатором"
+  # content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, natus."
+  # please add your email in "sendmail.php" file

@@ -1,3 +1,134 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+######################## default configuration ####################
+baseURL = "https://ai-cluster.ru/conf"
+languageCode = "ru-ru"
+title = "Конференция| Искусственный Интеллект. Цифровизация бизнеса. Конкурентные преимущества"
+theme = "vixcon-hugo"
+summaryLength = "10"
+paginate = 4
+
+[outputs]
+  home = ["HTML", "AMP", "RSS", "JSON"]
+
+############################# Plugins ##############################
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/css/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/themefisher-font/style.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jquery/jquery.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/js/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/SyoTimer/jquery.syotimer.min.js"
+  [[params.plugins.js]]
+  URL = "http://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.32/jquery.form.js"
+  [[params.plugins.js]]
+  URL = "http://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.11.1/jquery.validate.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/fuse.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/mark.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/search.js"
+  [[params.plugins.js]]
+  URL = "plugins/google-map/map.js"
+
+############################## navigation ###############################
+[menu]
+    
+  [[menu.main]]
+  name = "О конференции"
+  URL = "about"
+  weight = 2
+  
+  # [[menu.main]]
+  # name = "Спикеры"
+  # URL = "speaker"
+  # weight = 3
+
+  # [[menu.main]]
+  # weight = 4
+  # name = "Pages"
+  # hasChildren = true
+
+  #   [[menu.main]]
+  #   parent = "Pages"
+  #   name = "Tickets"
+  #   URL = "pricing"
+
+  #   # [[menu.main]]
+  #   # parent = "Pages"
+  #   # name = "Blog"
+  #   # URL = "blog"
+
+    [[menu.main]]
+    # parent = "Pages"
+    name = "Расписание"
+    URL = "schedule"
+
+  #   [[menu.main]]
+  #   parent = "Pages"
+  #   name = "FAQ"
+  #   URL = "faq"
+    
+  # [[menu.main]]
+  # name = "Контакты"
+  # URL = "contact"
+  # weight = 5
+
+#################### default parameters ################################
+[params]
+logo = "images/Logo_AI_Cluster_Kommersant.png"
+home = "Главная"
+# Meta data
+description = "Искусственный Интеллект. Цифровизация бизнеса. Конкурентные преимущества"
+author = "Themefisher"
+# google map
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+mapLatitude = "54.85805"
+mapLongitude = "83.110468"
+mapMarker = "images/marker.png"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+
+  # Preloader
+  [params.preloader]
+  enable = true
+
+  # Navigation get start button
+  [params.navBtn]
+  enable = true
+  label = "Регистрация"
+  link = "https://ai-cluster.timepad.ru/event/1252119/"
+
+  ############################## footer ################################
+  [params.footer]
+  title = "AI-CLUSTER и АО «Коммерсантъ-Сибирь»"
+  content = "совместно с ИМ СО РАН, НГУ, ПАО НИПС, АИР, Академпарк Новосибирск, I-VOICE, KamaFlow, HEALTHNET, Союз «Нейронет-Новосибирск» при поддержке Администрации Новосибирской области"
+  copyright = "Copyright Reserved to AI-cluster. 2020"
+
+  ############################# social icon ############################
+  # [[params.social]]
+  # icon = "tf-ion-social-facebook"
+  # link = "#"
+  
+  # [[params.social]]
+  # icon = "tf-ion-social-twitter"
+  # link = "#"
+  
+  # [[params.social]]
+  # icon = "tf-ion-social-linkedin"
+  # link = "#"
+  
+  # [[params.social]]
+  # icon = "tf-ion-social-pinterest"
+  # link = "#"
+  
+  # [[params.social]]
+  # icon = "tf-ion-social-rss"
+  # link = "#"
