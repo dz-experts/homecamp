@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Schedule on WE Algerians Education homecamp</title>
-    <link>https://ai-cluster.ru/homecamp/schedule/</link>
+    <link>https:///dz-experts.github.io/homecamp/schedule/</link>
     <description>Recent content in Schedule on WE Algerians Education homecamp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 10 Sep 2019 13:51:25 +0600</lastBuildDate>
     
-	<atom:link href="https://ai-cluster.ru/homecamp/schedule/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https:///dz-experts.github.io/homecamp/schedule/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
