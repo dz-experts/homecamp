@@ -98,80 +98,12 @@ sponsor:
           link : "https://www.wealgerians.org"
       
     ############################ sponsor group loop
-    - title : "Partners"
-      sponsor:
-        # sponcor loop
-        - logo : "images/clients/client-img-26.png"
-          link : "http://www.math.nsc.ru/"
-
-        # sponcor loop
-        - logo : "images/clients/client-img-13.png"
-          link : "https://www.nsu.ru/n/"
-          
-        # sponcor loop
-        - logo : "images/clients/client-img-14.png"
-          link : "#"
-          
-        # sponcor loop
-        - logo : "images/clients/client-img-20.png"
-          link : "#"
-          
-        # sponcor loop
-        - logo : "images/clients/client-img-16.png"
-          link : "https://academpark.com/"
-
-        # sponcor loop
-        - logo : "images/clients/client-img-30.png"
-          link : "http://rit-it.com/ru/"
-          
-        # sponcor loop
-        - logo : "images/clients/client-img-18.png"
-          link : "http://rusneuro.net/"
-          
-        # sponcor loop
-        - logo : "images/clients/client-img-28.png"
-          link : "https://expasoft.com/ru/"
-          
-        # sponcor loop
-        - logo : "images/clients/client-img-22.png"
-          link : "http://nips.ru/"
-          
-        # sponcor loop
-        - logo : "images/clients/client-img-34.png"
-          link : "https://eyeline.mobi/"
-
-        # sponcor loop
-        - logo : "images/clients/client-img-33.png"
-          link : "https://air-nso.ru/ru/"
-
-        # sponcor loop
-        - logo : "images/clients/client-img-27.png"
-          link : "http://healthnet.academpark.com/"
-
-        # sponcor loop
-        - logo : "images/clients/client-img-24.png"
-          link : "https://kamaflow.com/ru/"
-
-        # sponcor loop
-        - logo : "images/clients/client-img-31.png"
-          link : "https://sib-nsk.net/"
-          
-        # sponcor loop
-        - logo : "images/clients/client-img-29.png"
-          link : "https://bacup.ru/"
-
-        # sponcor loop
-        - logo : "images/clients/client-img-35.png"
-          link : "https://www.vot-takie-pirogi.ru/"
-
-        # sponcor loop
-        - logo : "images/clients/client-img-32.png"
-          link : "http://aigents.com/"
-
-        # sponcor loop
-        - logo : "images/clients/client-img-36.png"
-          link : "https://astralinux.ru/"          
-  
+#    - title : "Partners"
+#      sponsor:
+#        # sponcor loop
+#        - logo : "images/clients/client-img-26.png"
+#          link : "https://www.wealgerians.org"
+        
   # call to action in sponsor
   cta:
     enable : false
