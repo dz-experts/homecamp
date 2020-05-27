@@ -8,4 +8,3 @@ bgImage : "images/bg/cta-bg.jpg"
 
 ## Who're speaking
 
-Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio.

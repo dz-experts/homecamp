@@ -2,7 +2,7 @@
 baseURL = "https:/dz-experts.github.io/homecamp"
 languageCode = "en-US"
 title = "WE Algerians Education homecamp"
-theme = "vixcon-hugo"
+theme = "homecamp"
 summaryLength = "10"
 paginate = 4
 
