@@ -11,22 +11,42 @@
           <div class="heading">
             <span class="stroke-text">{{ .titleOutline }}</span>
             <h3 class="mb-4 h2 mt-2">{{ .title | markdownify }}</h3>
+          </div>
+        </div>
+        
+      </div>
+      <div class="row justify-content-center mb-5">
+        <div class="col-lg-8">
+          <div class="heading">
             <p>{{ .content | markdownify }}</p>
           </div>
+        </div>
+        <div class="col-lg-4  border-left">
+          {{ $.Scratch.Set "counter" 0 }}
+          <h4> Contents:</h4>
+          <ul>
+          {{ range .faqItem }}
+          {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+          <li class="mb-1">
+            <a class="" href="#{{ .title | urlize}}">{{ .title | markdownify }}</a>
+          </li>
+          {{ end }}
+        </ul>
         </div>
       </div>
 
       <div class="row justify-content-center">
-        <div class="col-lg-8">
+        <div class="col-lg-12">
           {{ $.Scratch.Set "counter" 0 }}
           {{ range .faqItem }}
           {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
           <div class="mb-4">
-            <h4 class="mb-3 border-bottom pb-3">{{ .title | markdownify }}</h4>
+            <h4 class="mb-3 border-bottom pb-3" id="{{ .title | urlize}}">{{ .title | markdownify }}</h4>
             <p>{{ .content | markdownify }}</p>
           </div>
           {{ end }}
         </div>
+        
 
         <div class="col-lg-8">
           <div class="info">
