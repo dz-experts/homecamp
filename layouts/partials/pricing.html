@@ -1,4 +1,6 @@
-{{ with .Site.Data.pricing.pricing }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ with $data.pricing.pricing }}
 <section class="section section-pricing">
   <div class="container">
     <div class="row">

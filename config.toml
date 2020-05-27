@@ -1,10 +1,27 @@
 ######################## default configuration ####################
 baseURL = "https:/dz-experts.github.io/homecamp"
-languageCode = "en-US"
+languageCode = "en"
 title = "WE Algerians Education homecamp"
 theme = "homecamp"
 summaryLength = "10"
 paginate = 4
+defaultContentLanguageInSubdir = true
+DefaultContentLanguage = "en"
+[languages]
+  [languages.ar]
+    languagedirection = "rtl"
+    title = "منتدى تعليمي"
+    weight = 2
+    contentDir = "content/ar"
+  [languages.en]
+    title = "WE Algerians Education homecamp"
+    weight = 1
+    contentDir = "content/en"
+  [languages.fr]
+    title = "Homecamp de l'éducation par WE Algerians"
+    weight = 3
+    contentDir = "content/fr"
+
 
 [outputs]
   home = ["HTML", "AMP", "RSS", "JSON"]
@@ -61,10 +78,7 @@ paginate = 4
     name = "schedule"
     URL = "schedule"
 
-     [[menu.main]]
-     parent = "Pages"
-     name = "FAQ"
-     URL = "faq"
+  
    
 
 #################### default parameters ################################
@@ -73,14 +87,7 @@ logo = "images/logo-we.png"
 home = "Home"
 # Meta data
 description = "WE Algerians Education homecamp"
-author = "Themefisher"
-# google map
-gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-mapLatitude = "54.85805"
-mapLongitude = "83.110468"
-mapMarker = "images/marker.png"
-# Google Analitycs
-googleAnalitycsID = "Your ID"
+
 
   # Preloader
   [params.preloader]

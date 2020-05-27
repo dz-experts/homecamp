@@ -1,4 +1,6 @@
-{{ with .Site.Data.homepage.event }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ with $data.homepage.event }}
 <section class="section about">
   <div class="container">
     <div class="row">

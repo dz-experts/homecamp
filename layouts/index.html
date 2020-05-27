@@ -1,8 +1,9 @@
 {{ define "main" }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
 
 <!-- banner -->
-{{ with .Site.Data.homepage.banner }}
-<section class="section-banner d-flex align-items-center" style="background-image: url(images/banner/banner-2.jpg);">
+{{ with $data.homepage.banner }}
+<section class="section-banner d-flex align-items-center" style="background-image: url({{`images/banner/banner-2.jpg` | absURL }});">
   <div class="container">
     <div class="row">
       <div class="col-lg-7 mr-auto">
@@ -23,8 +24,8 @@
 <!-- /banner -->
 
 <!-- counter -->
-{{ if .Site.Data.homepage.counter.enable }}
-{{ with .Site.Data.homepage.counter }}
+{{ if $data.homepage.counter.enable }}
+{{ with $data.homepage.counter }}
 <section class="overflow-hidden counter-wrapper pt-4 pb-5">
   <div class="container">
     <div class="counter-inner">
@@ -45,14 +46,14 @@
 <!-- counter -->
 
 <!-- event  -->
-{{ if .Site.Data.homepage.event.enable }}
+{{ if $data.homepage.event.enable }}
 {{ partial "event.html" . }}
 {{ end }}
 <!-- /event -->
 
 <!-- call to action -->
-{{ if .Site.Data.homepage.cta.enable }}
-{{ with .Site.Data.homepage.cta }}
+{{ if $data.homepage.cta.enable }}
+{{ with $data.homepage.cta }}
 <section class="section cta-wrap">
   <div class="container">
     <div class="row align-items-center">
@@ -78,8 +79,8 @@
 <!-- /call to action -->
 
 <!-- feature -->
-{{ if .Site.Data.homepage.feature.enable }}
-{{ with .Site.Data.homepage.feature }}
+{{ if $data.homepage.feature.enable }}
+{{ with $data.homepage.feature }}
 <section id="section-feature">
   <div class="container">
     <div class="row">
@@ -101,22 +102,22 @@
 <!-- /feature -->
 
 <!-- schedule -->
-{{ if .Site.Data.homepage.schedule.enable }}
+{{ if $data.homepage.schedule.enable }}
 {{ partial "schedule.html" . }}
 {{ end }}
 <!-- /schedule -->
 
 <!-- pricing -->
-{{ if .Site.Data.homepage.pricing.enable }}
+{{ if $data.homepage.pricing.enable }}
 {{ partial "pricing.html" . }}
 {{ end }}
 <!-- /pricing  -->
 
 <!-- speaker -->
-{{ if .Site.Data.homepage.speaker.enable }}
+{{ if $data.homepage.speaker.enable }}
 <section class="section-speaker section">
   <div class="container">
-    {{ with .Site.Data.homepage.speaker }}
+    {{ with $data.homepage.speaker }}
     <div class="row section-heading">
       <div class="col-lg-6">
         <div class="heading">
@@ -155,14 +156,14 @@
 <!-- /speaker -->
 
 <!-- sponsor -->
-{{ if .Site.Data.homepage.sponsor.enable }}
+{{ if $data.homepage.sponsor.enable }}
 {{ partial "sponsor.html" . }}
 {{ end }}
 <!-- /sponsor -->
 
 <!-- call to action 2 -->
-{{ if .Site.Data.homepage.cta2.enable }}
-{{ with .Site.Data.homepage.cta2 }}
+{{ if $data.homepage.cta2.enable }}
+{{ with $data.homepage.cta2 }}
 <section class="cta-2 section">
   <div class="container">
     <div class="row">
@@ -189,9 +190,9 @@
 <!-- call to action 2 -->
 
 <!-- blog -->
-{{ if .Site.Data.homepage.blog.enable }}
+{{ if $data.homepage.blog.enable }}
 <section class="latest-blog section-bottom">
-  {{ with .Site.Data.homepage.blog }}
+  {{ with $data.homepage.blog }}
   <div class="container">
     <div class="row section-heading">
       <div class="col-lg-6">

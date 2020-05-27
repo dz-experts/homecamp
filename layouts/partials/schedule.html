@@ -1,4 +1,6 @@
-{{ with .Site.Data.schedule.schedule }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ with $data.schedule.schedule }}
 <section class="section-schedule section">
   <div class="container">
     <div class="row section-heading">

@@ -3,7 +3,7 @@
   <nav class="navbar navbar-expand-lg main-nav">
     <div class="container">
       <!-- LOGO BAR -->
-      <a class="navbar-brand" href="{{ .Site.BaseURL }}">
+      <a class="navbar-brand" href="{{ .Site.BaseURL }}/{{.Site.Language.Lang}}">
         <img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}" class="img-fluid logo-b">
       </a>
 
@@ -16,7 +16,7 @@
       <div class="collapse navbar-collapse " id="navbarNavDropdown">
         <ul class="navbar-nav mx-auto">
           <li class="nav-item">
-            <a class="nav-link" href="{{ .Site.BaseURL }}">{{.Site.Params.Home}}</a>
+            <a class="nav-link" href="{{ .Site.BaseURL }}/{{.Site.Language.Lang}}">{{.Site.Params.Home}}</a>
           </li>
           {{ range .Site.Menus.main }}
           {{ if .HasChildren }}
@@ -27,20 +27,20 @@
             </a>
             <div class="dropdown-menu">
               {{ range .Children }}
-              <a class="dropdown-item" href="{{ .URL | absURL }}">{{ .Name }}</a>
+              <a class="dropdown-item" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
               {{ end }}
             </div>
           </li>
           {{ else }}
           <li class="nav-item">
-            <a class="nav-link" href="{{ .URL | absURL }}">{{ .Name }}</a>
+            <a class="nav-link" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
           </li>
           {{ end }}
           {{ end }}
         </ul>
         {{ if .Site.Params.navBtn.enable }}
         {{ "<!-- get start btn -->" | safeHTML }}
-        <a href="{{ .Site.Params.navBtn.link | absURL }}"
+        <a href="{{ .Site.Params.navBtn.link | absLangURL }}"
           class="btn btn-secondary btn-rounded mt-3 mt-lg-0">{{ .Site.Params.navBtn.label }}</a>
         {{ end }}
       </div>
