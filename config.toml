@@ -70,8 +70,8 @@ DefaultContentLanguage = "en"
 
   [[menu.main]]
   parent = "Tutorials"
-  name = "Distance Education"
-  URL = "distance-education"
+  name = "Resources"
+  URL = "faq"
  
 
     [[menu.main]]
