@@ -7,23 +7,4 @@ bgImage : "images/bg/cta-bg.jpg"
 image : "images/teams/fakouk_yalaoui.png"
 designation : "Professor - UTT, France"
 type : "speaker"
-
-# professional skill
-# skill:
-#   # skill loop
-#   - title : "Course Correction"
-#     icon : "tf-ion-android-document"
-#     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-    
-#   # skill loop
-#   - title : "Execute the Decision"
-#     icon : "tf-ion-android-desktop"
-#     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
-    
-#   # skill loop
-#   - title : "Planning the Moves"
-#     icon : "tf-ion-android-bulb"
-#     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi hendrerit elit turpis, a porttitor tellus sollicitudin at."
 ---
-
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. -->
