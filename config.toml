@@ -7,21 +7,26 @@ summaryLength = "10"
 paginate = 4
 defaultContentLanguageInSubdir = true
 DefaultContentLanguage = "en"
+IsMultiLingual = true
 [languages]
   [languages.ar]
     languagedirection = "rtl"
+    LanguageName = "العربية"
     title = "منتدى تعليمي"
     weight = 2
     contentDir = "content/ar"
   [languages.en]
+    LanguageName = "English"
     title = "WE Algerians Education homecamp"
     weight = 1
     contentDir = "content/en"
+    
   [languages.fr]
+    LanguageName = "Français"
     title = "Homecamp de l'éducation par WE Algerians"
     weight = 3
+    enable = false
     contentDir = "content/fr"
-
 
 [outputs]
   home = ["HTML", "AMP", "RSS", "JSON"]
