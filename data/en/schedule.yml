@@ -15,7 +15,7 @@ schedule:
           
           ### Opening Planary
 
-          Digitization of education in Algeria, why is it essential?
+          
           "
                
         # tab content list
@@ -25,7 +25,7 @@ schedule:
           
           ### workshop 1.1
           
-          Educational and productivity tools"
+          "
 
     - title : "Day 2"
       subtitle : "June, 21"
@@ -37,7 +37,7 @@ schedule:
           
           ### Planary
 
-          Digitization of education in Algeria, why is it essential?
+          
           "
                
         # tab content list
@@ -47,7 +47,7 @@ schedule:
           
           ### workshop 2.1
           
-          Educational and productivity tools"
+          "
 
         - time : "21:00 – 21:00"
           image : "images/about/undraw_co-working_825n.svg"
@@ -55,7 +55,7 @@ schedule:
           
           ### workshop 2.1
           
-          Educational and productivity tools"
+          "
           
     - title : "Day 3"
       subtitle : "June, 22"
@@ -67,7 +67,7 @@ schedule:
           
           ### Planary
 
-          Digitization of education in Algeria, why is it essential?
+          
           "
                
         # tab content list
@@ -77,7 +77,7 @@ schedule:
           
           ### workshop 3.1
           
-          Educational and productivity tools"
+          "
 
         - time : "21:00 – 21:00"
           image : "images/about/undraw_co-working_825n.svg"
@@ -85,7 +85,7 @@ schedule:
           
           ### workshop 3.2
           
-          Educational and productivity tools"
+          "
           
     - title : "Day 4"
       subtitle : "June, 23"
@@ -97,7 +97,7 @@ schedule:
           
           ### Planary
 
-          Digitization of education in Algeria, why is it essential?
+          
           "
                
         # tab content list
@@ -107,7 +107,7 @@ schedule:
           
           ### workshop 4.1
           
-          Educational and productivity tools"
+          "
 
         - time : "21:00 – 21:00"
           image : "images/about/undraw_co-working_825n.svg"
@@ -115,7 +115,7 @@ schedule:
           
           ### workshop 4.2
           
-          Educational and productivity tools"
+          "
           
     - title : "Day 5"
       subtitle : "June, 24"
@@ -127,7 +127,7 @@ schedule:
           
           ### Planary
 
-          Digitization of education in Algeria, why is it essential?
+          
           "
                
         # tab content list
@@ -137,7 +137,7 @@ schedule:
           
           ### workshop 5.1
           
-          Educational and productivity tools"
+          "
 
         - time : "21:00 – 21:00"
           image : "images/about/undraw_co-working_825n.svg"
@@ -145,7 +145,7 @@ schedule:
           
           ### workshop 5.2
           
-          Educational and productivity tools"
+          "
           
     - title : "Day 6"
       subtitle : "June, 25"
@@ -157,7 +157,7 @@ schedule:
           
           ### Planary
 
-          Digitization of education in Algeria, why is it essential?
+          
           "
                
         # tab content list
@@ -167,7 +167,7 @@ schedule:
           
           ### workshop 6.1
           
-          Educational and productivity tools"
+          "
 
         - time : "21:00 – 21:00"
           image : "images/about/undraw_co-working_825n.svg"
@@ -175,7 +175,7 @@ schedule:
           
           ### workshop 6.2
           
-          Educational and productivity tools"
+          "
           
        
     - title : "Day 7"
@@ -186,25 +186,19 @@ schedule:
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
-          ### Planary
+          ### workshop 7
 
-          Digitization of education in Algeria, why is it essential?
+          
           "
                
         # tab content list
-        - time : "19:00 – 20:00"
+        - time : "19:00 – 21:00"
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
-          ### workshop 7.1
+          ### Closing Planary
           
-          Educational and productivity tools"
+          "
 
-        - time : "21:00 – 21:00"
-          image : "images/about/undraw_co-working_825n.svg"
-          content : "
-          
-          ### workshop 7.2
-          
-          Educational and productivity tools"
+       
           
