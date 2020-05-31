@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https:/dz-experts.github.io/homecamp"
 languageCode = "en"
-title = "WE Algerians Education homecamp"
+title = "WE Algerians EdCamp"
 theme = "homecamp"
 summaryLength = "10"
 paginate = 4
@@ -17,13 +17,13 @@ IsMultiLingual = true
     contentDir = "content/ar"
   [languages.en]
     LanguageName = "English"
-    title = "WE Algerians Education homecamp"
+    title = "WE Algerians EdCamp"
     weight = 1
     contentDir = "content/en"
     
   [languages.fr]
     LanguageName = "Français"
-    title = "Homecamp de l'éducation par WE Algerians"
+    title = "WE Algerians EdCamp"
     weight = 3
     enable = false
     contentDir = "content/fr"
@@ -91,7 +91,7 @@ IsMultiLingual = true
 logo = "images/logo-we.png"
 home = "Home"
 # Meta data
-description = "WE Algerians Education homecamp"
+description = "WE Algerians EdCamp"
 
 
   # Preloader
@@ -106,7 +106,7 @@ description = "WE Algerians Education homecamp"
 
   ############################## footer ################################
   [params.footer]
-  title = "WE Algerians Education homecamp"
+  title = "WE Algerians EdCamp"
   content = "The objective of this homecamp is twofold: (1) to introduce instructors and students to the world of online education and the flexibility it can offer during this pandemic; and (2) to provide a think tank to brainstorm about the future of the Algerian higher-education institutions and how they can be more competitive."
   copyright = "Copyright Reserved to WE-Algerians. 2020"
 

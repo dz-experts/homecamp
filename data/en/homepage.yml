@@ -1,6 +1,6 @@
 ############################# banner ################################
 banner:
-  title : "WE Algerians Education homecamp"
+  title : "WE Algerians EdCamp"
   date : "June, 20, at 18.00"
   button:
     enable : "Subscribe"
@@ -79,6 +79,7 @@ pricing:
 ########################## speaker ##########################
 speaker:
   enable : true
+  show : false
   titleOutline : "Speakers"
   title : "Speakers and guests"
   # content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
