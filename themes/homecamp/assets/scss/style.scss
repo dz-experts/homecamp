@@ -125,4 +125,14 @@ img{
     max-width: 100%;
     height: auto;
 }
-
+.container {
+    h2{
+        color: $primary-color
+    }
+}
+a.disabled, .dropdown-item:disabled {
+    /* Make the disabled links grayish*/
+    color: $border-color !important;
+    cursor: not-allowed;
+    pointer-events: auto !important;
+  }
