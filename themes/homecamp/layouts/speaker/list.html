@@ -1,6 +1,7 @@
 {{ define "main" }}
 
 {{ partial "page-title.html" . }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
 
 <!-- speaker style 1 -->
 <section class="section-speaker section">
@@ -16,6 +17,7 @@
       </div>
     </div>
     <div class="row">
+      {{ if $data.homepage.speaker.show }}
       {{ range .Data.Pages }}
       <div class="col-lg-4 col-md-6">
         <div class="speaker-block mb-5">
@@ -34,46 +36,18 @@
         </div>
       </div>
       {{ end }}
+      {{ else }}
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-6 text-center">
+            <h3 class="text-secondary mb-3">To be announced!</h3>
+        </div>
+      </div>
+      {{ end }}
+
     </div>
   </div>
 </section>
 <!-- /speaker style 1 -->
-
-<!-- speaker style 2 -->
-<section class="speaker-2 section bg-gray">
-  <div class="container">
-    <div class="row section-heading">
-      <div class="col-lg-6">
-        <div class="heading">
-          <span class="stroke-text">{{ .Title }}</span>
-          <div class="pl-90 content">
-            {{ .Content }}
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      {{ range .Data.Pages }}
-      <div class="col-lg-4 col-md-6">
-        <div class="speaker-block style-2 mb-5">
-          <div class="img-block">
-            <img src="{{ .Params.Image | absURL }}" alt="{{ .Title }}" class="img-fluid rounded-circle">
-            <ul class="list-inline speaker-social">
-              {{ range .Params.Social }}
-              <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
-              {{ end }}
-            </ul>
-          </div>
-          <div class="speaker-info text-center">
-            <h4 class="mb-0 mt-3"><a href="{{.Permalink}}">{{ .Title }}</a></h4>
-            <p>{{ .Params.Designation}}</p>
-          </div>
-        </div>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</section>
-<!-- /speaker style 2 -->
 
 {{ end }}
