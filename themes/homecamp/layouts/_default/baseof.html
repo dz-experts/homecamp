@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
     {{- partial "head.html" . -}}
-    <body>
+    {{if eq .Site.Language.Lang "ar"}}
+    <body class="rtl" dir="rtl">
+    {{else}} 
+    <body class="tlr">
+    {{end}} 
         {{- partial "preloader.html" . -}}
         {{- partial "header.html" . -}}
         {{- block "main" . }}{{- end }}

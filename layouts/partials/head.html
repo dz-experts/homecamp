@@ -10,9 +10,14 @@
   {{ hugo.Generator }}
 
   {{ "<!-- plugins -->" | safeHTML }}
+  {{ range .Site.Params.i18nplugins.css }}
+  <link rel="stylesheet" href="{{ .URL | absURL }} ">
+  {{ end }}
   {{ range .Site.Params.plugins.css }}
   <link rel="stylesheet" href="{{ .URL | absURL }} ">
   {{ end }}
+
+  <link href="https://fonts.googleapis.com/css?family=Cairo|Open+Sans&display=swap" rel="stylesheet">
 
   {{ "<!-- Main Stylesheet -->" | safeHTML }}
   {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}

@@ -1,17 +1,17 @@
 ############################# banner ################################
 banner:
-  title : "WE Algerians EdCamp"
-  date : "June, 20, at 18.00"
-  image: "images/banner/banner-2.jpg"
+  title : "مخيم We Algerians للتعليم"
+  date : "20 جوان على الساعة 18.00"
+  image: "images/banner/banner-2-rtl.jpg"
   button:
-    enable : "Subscribe"
-    label : "Subscribe"
+    enable : true
+    label : "تسجيل"
     link : "#"
 
 ########################## Counter #################################
 counter:
   enable : true
-  title : "**Count the day** until homecamp start"
+  title : "الوقت المتبقي"
   # set timer
   year: "2020"
   month: "06"
@@ -20,9 +20,9 @@ counter:
 
 ############################## Event ##############################
 event:
-  enable : true
-  titleOutline : "event"
-  title : "Education online event"
+  enable : false
+  titleOutline : "الحدث"
+  title : "ملتقى عبر الإنترنت"
   imageBG: "images/about/h1-gallery-img-7.jpg"
   image : "images/about/main-home-img-1.jpg"
   content : "The objective of this homecamp is twofold: 
@@ -31,7 +31,7 @@ event:
 
   - provide a think tank to brainstorm about the future of the Algerian higher-education institutions and how they can be more competitive. "
   button:
-    enable : true
+    enable : false
     label : "Subscribe"
     link : "#"
 
@@ -42,14 +42,14 @@ cta:
   title : "Meet top **digital masters** <br>& influencers in a unique **3-days** experience."
   image : "images/banner/rev-slider-09.png"
   button:
-    enable :  true
+    enable :  false
     label : "get ticket"
     link: "pricing"
 
 
 ####################### Schedule #############################
 schedule:
-  enable : true
+  enable : false
   # schedule data comes from "schedule.yml" file
 
 ####################### pricing #############################
@@ -59,7 +59,7 @@ pricing:
 
 ########################## speaker ##########################
 speaker:
-  enable : true
+  enable : false
   show : false
   titleOutline : "Speakers"
   title : "Speakers and guests"
@@ -68,7 +68,7 @@ speaker:
 
 ######################### sponsor ############################
 sponsor:
-  enable :  true
+  enable :  false
   titleOutline : "Partners"
   title : "Organizers and Partners"
   sponsorGroup:
@@ -88,7 +88,7 @@ sponsor:
         
   # call to action in sponsor
   cta:
-    enable : true
+    enable : false
     title : "Want to help/be a sponsor ?"
     #button
     label : "contact us"
@@ -96,7 +96,7 @@ sponsor:
 
 ################################ call to action 2 ########################
 cta2:
-  enable : true
+  enable : false
   image : "images/bg/cta-bg.jpg"
   title : "TIME AND VENUE"
   date : "June 20-26, 2020"
@@ -108,8 +108,18 @@ cta2:
 
 ############################### footer ####################################
 footer: 
-  title : "WE Algerians EdCamp"
-  content : "The objective of this homecamp is twofold: (1) to introduce instructors and students to the world of online education and the flexibility it can offer during this pandemic; and (2) to provide a think tank to brainstorm about the future of the Algerian higher-education institutions and how they can be more competitive."
+  title : "مخيم We Algerians للتعليم"
+  content : "يهدف هذا المخيم إلى فتح الحوار والنقاش مع نخبة من الباحثين والخبراء الجزائريين حول التعليم والتكوين في الجزائر ضمن محورين أساسين هما:
+
+
+
+    1- تعزيز استعمال التعليم الرقمي وتطويره خاصة في ظرف الوباء العالمي الحالي  من خلال تكوين الطلبة و الأساتذة والباحثين في الوسائل المتاحة عبر الإنترنت ومرافقتهم  لتبني هذا المنحى.
+
+
+
+    2- تكوين فريق عمل وبحث دائم يقوم على تطوير الحلول وتطوير التعليم والتكوين في الجزائر و الارتقاء به إلى المستويات الدولية والعالمية
+ 
+"
   copyright : "Copyright Reserved to WE-Algerians. 2020"
   social : 
     - icon : "tf-ion-social-facebook"

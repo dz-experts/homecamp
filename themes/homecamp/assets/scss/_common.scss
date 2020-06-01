@@ -65,13 +65,20 @@
   will-change: box-shadow;
   font-size: 13px;
   border-radius: 0px;
-  letter-spacing: .2em;
+  body.rtl & {
+    letter-spacing: 0em;
+    font-family: "Cairo";
+
+  }
+  body.tlr & {
+    letter-spacing: 0em;
+    font-family: $base-font;
+
+  }
   text-transform: uppercase;
   border: 2px solid transparent;
   font-weight: 700;
-  font-family: $base-font;
 }
-
 
 
 .btn-rounded {
