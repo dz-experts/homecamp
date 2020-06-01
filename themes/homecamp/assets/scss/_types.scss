@@ -107,7 +107,12 @@ p{
 .lg-title{
   font-size:62px;
   text-transform: uppercase;
-  letter-spacing: 0.5px;
+  body.rtl & {
+    letter-spacing: 0em;
+  }
+  body.tlr & {
+    letter-spacing: 0.5px;
+  }
 }
 
 

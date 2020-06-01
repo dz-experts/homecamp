@@ -12,7 +12,12 @@
         font-size: 14px;
         padding: 26px 18px!important;
         font-weight: 700;
-        letter-spacing:1px;
+        body.rtl & {
+            letter-spacing: 0em;
+        }
+        body.tlr & {
+            letter-spacing:1px;
+        }
         text-transform: uppercase;
         color: $black;
         opacity: .9;

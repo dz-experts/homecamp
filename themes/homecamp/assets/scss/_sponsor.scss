@@ -38,8 +38,13 @@
 }
 
 .letter-spacing{
-	letter-spacing:2px;
 	text-transform: uppercase;
+	body.rtl & {
+		letter-spacing: 0em;
+	}
+	body.tlr & {
+		letter-spacing:2px;
+	}
 }
 
 .text-sm{
