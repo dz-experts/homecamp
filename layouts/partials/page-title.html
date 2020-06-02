@@ -10,6 +10,15 @@
             <li class="list-inline-item"><a href="{{ .Site.BaseURL }}">{{ .Site.Params.Home }}</a> /</li>
             <li class="list-inline-item">{{ .Title }}</li>
           </ul>
+          {{ if .IsTranslated }}
+          <ul class="list-inline">
+            {{ range .Translations }}
+              <li class="list-inline-item ml-2">
+                <a class=" is-small" href="{{ .Permalink }}"><u>{{ .Site.Language.LanguageName }}</u></a>
+              </li>
+            {{ end }}
+          </ul>
+          {{ end }}
         </div>
       </div>
     </div>

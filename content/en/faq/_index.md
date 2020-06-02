@@ -27,7 +27,7 @@ After reading this document, the instructor will learn how to:
 
 
 
-![alt_text](../../images/tutorials/faq-1.png "image_tooltip")
+![](../../images/tutorials/faq-1.png "")
 
 
 The above figure illustrates the space of tools depending on the internet speed. 
@@ -79,15 +79,15 @@ What are ways for professors or TAs to schedule 1-1 office hours with students?
 
 ## Course communication 
 
-**Method 1: Google Classroom**
+### Method 1: Google Classroom**
 
 
 
 
-![alt_text](../../images/tutorials/faq-2.png "image_tooltip")
+![](../../images/tutorials/faq-2.png "")
 
 
-**Method 2: Mailing lists**
+### Method 2: Mailing lists**
 
 Given that internet speed in Algeria is not the fastest, the best way to manage course communication is probably through a mailing list. Mailing lists allow you to communicate with all the students at once. Mailing lists are also suitable to anyone with poor internet (i.e., students can download emails, receive notifications of new emails, etc.).
 
@@ -108,6 +108,9 @@ First, create a gmail email address.
 
 2. Follow the steps on the video below
 
+![](../../images/tutorials/create-gmail.gif "")
+
+
 **Creating the Mailing Lists**
 
 To create the mailing lists, it is advisable to separate mailing lists based on usage. For instance, for a particular course (ABC), you may create 4 different mailing lists: TD, announcements, Questions/Answers and Labs
@@ -115,7 +118,7 @@ To create the mailing lists, it is advisable to separate mailing lists based on 
 
 
 
-![alt_text](../../images/tutorials/faq-3.png "image_tooltip")
+![](../../images/tutorials/faq-3.png "")
 
 
 To create those mailing lists, please follow these steps:
@@ -125,50 +128,54 @@ To create those mailing lists, please follow these steps:
 2. Create a new mailing list, for example (you can name it anything): module-1234-TD (to be used for TD-related communications). Note the permission settings, adjust them as needed to control who is allowed to post on the mailing list. Note the email address of the list ([module-1234-td@googlegroups.com](mailto:module-1234-td@googlegroups.com)), this email address will be used to communicate with the members.
 
 
-![alt_text](../../images/tutorials/faq-4.gif "image_tooltip")
+![](../../images/tutorials/faq-4.gif "")
 
 
 3. Add the students’ emails to the list. Those emails can be from any email service (doesn’t have to be gmail)
 
 
  
-![alt_text](../../images/tutorials/faq-5.gif "image_tooltip")
+![](../../images/tutorials/faq-5.gif "")
 
 
 4. Write an example email to the list: to write an email to the list members, simple write the email as you would any email (the recipient email here will be: module-1234-td@googlegroups.com)
 
  
-![alt_text](../../images/tutorials/faq-6.png "image_tooltip")
+![](../../images/tutorials/faq-6.png "")
 
 
 The email will be sent to all the list members. You can also view all the lists’ threads from the Google Groups interface:
 
  
 
-![alt_text](../../images/tutorials/faq-7.png "image_tooltip")
+![](../../images/tutorials/faq-7.png "")
 
 
 ## Giving lectures
 
-**Live presentations**
+### Live presentations
 
 Giving lectures over Zoom/Webex is the standard option if your students have a reliable internet connection. In order to share your presentation slides with your students while speaking, you could use the “share screen” feature of Zoom or Webex. However, the “share screen” feature requires a lot of internet bandwidth. A better alternative is to use Powerpoint Online Presentation, which will generate a link you can share with your students to follow your slide show. 
 
 For more details on this Powerpoint feature, please refer to: [https://support.microsoft.com/en-gb/office/broadcast-your-powerpoint-presentation-online-to-a-remote-audience-25330108-518e-44be-a281-e3d85f784fee?ui=en-us&rs=en-gb&ad=gb](https://support.microsoft.com/en-gb/office/broadcast-your-powerpoint-presentation-online-to-a-remote-audience-25330108-518e-44be-a281-e3d85f784fee?ui=en-us&rs=en-gb&ad=gb)
 
-**Offline presentations**
+### Offline presentations
 
 Powerpoint has a “record slideshow” feature that allows you to record your slideshow with your voice on it. Then you can share the presentation video with your students via Google Drive.
 
+![](../../images/tutorials/Broadcast-PPTX-Presentation.png "")
+
+
 For more information: [https://support.office.com/en-us/article/video-record-presentations-2570dff5-f81c-40bc-b404-e04e95ffab33](https://support.office.com/en-us/article/video-record-presentations-2570dff5-f81c-40bc-b404-e04e95ffab33)
+
 
 ## Managing exams
 
-**Live exams**
+### Live exams
 
 If internet speed is not an issue for most students, a live exam can be conducted via Zoom or Webex. The students would have to turn on their computer camera before taking the exam. The exam format varies depending on the course, but the students can submit their exam answers electronically via email to the instructor.
 
-**Take-home exams**
+### Take-home exams
 
 If internet speed is an issue, the professor could email the exam document at the scheduled time and then asks the students to email back their answers within a specified time period (for example 2 hours). Ask the students to email their answers to the professor’s email address (which has to be known to the students from the beginning).
 
@@ -177,20 +184,20 @@ If internet speed is an issue, the professor could email the exam document at th
 You can use Google Drive to add content to your course. For example, video recordings, documents, etc. The following shows how to create a directory on Google Drive
  
 
-![alt_text](../../images/tutorials/faq-8.gif "image_tooltip")
+![](../../images/tutorials/faq-8.gif "")
 
 
 2. Now we create sub-directories and share them with the right mailing list group (ex: TD)
 
 
  
-![alt_text](../../images/tutorials/faq-9.gif "image_tooltip")
+![](../../images/tutorials/faq-9.gif "")
 
 
 3. Now, MAKE SURE YOU MARK THOSE DIRECTORIES AS VIEW ONLY so that students cannot change their content.
 
  
-![alt_text](../../images/tutorials/faq-10.gif "image_tooltip")
+![](../../images/tutorials/faq-10.gif "")
 
 
 ## Create Class Calendar
@@ -202,14 +209,14 @@ Professors may choose to create a Google Calendar that is shared with all the st
 Then add a new calendar for your class (module 1234)
 
 
-![alt_text](../../images/tutorials/faq-11.gif "image_tooltip")
+![](../../images/tutorials/faq-11.gif "")
 
 
 2. Share the new calendar with your mailing list:
 
 
 
-![alt_text](../../images/tutorials/faq-12.gif "image_tooltip")
+![](../../images/tutorials/faq-12.gif "")
 
 
 3. Now every student in the mailing list will have the calendar “module 1234” visible on their Google calendar (this requires students to use @gmail email)
