@@ -84,8 +84,8 @@ What are ways for professors or TAs to schedule 1-1 office hours with students?
 
 
 
-![](../../images/tutorials/faq-2.png "")
 
+[![Google Classroom](https://img.youtube.com/vi/lqlWBmqDUsY/0.jpg)](https://www.youtube.com/watch?v=lqlWBmqDUsY)
 
 ### Method 2: Mailing lists**
 

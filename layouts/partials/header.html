@@ -98,7 +98,7 @@
               {{ range $.Site.Home.AllTranslations }}
                 
               <a class="dropdown-item
-              {{ if eq .Language.Lang  "en" }}
+              {{ if ne .Language.Lang  "en" }}
                     disabled
                 {{ end }}
                " href="{{ .Permalink }}">

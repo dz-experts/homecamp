@@ -127,7 +127,13 @@ img{
 }
 .container {
     h2{
-        color: $primary-color
+        color: $primary-color;
+    }
+    
+}
+p{
+    a{
+        color: $primary-color !important;
     }
 }
 a.disabled, .dropdown-item:disabled {

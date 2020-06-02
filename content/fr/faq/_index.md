@@ -6,234 +6,253 @@ description: "Resources about distance education"
 bgImage : "images/bg/cta-bg.jpg"
 ---
 
-
-
-## Audience
-
-This document targets university professors in Algeria seeking to transform their classes to distance-learning classes
-
-After reading this document, the instructor will learn how to:
-
-
-
-*   set a structure of the class online through mailing lists
-*   set up different communication channels to interact with the students
-*   set up a class calendar and share it with the students
-*   set up a Google Drive folder and share it with the students
-
-
-## What are the available tools to conduct my class online?
-
-
-
-
-![alt_text](../../images/tutorials/faq-1.png "image_tooltip")
-
-
-The above figure illustrates the space of tools depending on the internet speed. 
-
-**1. Low speed internet for all students**
-
-In this case, all the class has to be conducted offline (no live video-conferencing, etc.). We will describe how to use Mailing Lists to manage the class
-
-**2. Not everyone has high-speed internet**
-
-In this case, most of the class will be performed offline (communicate, lectures, recitation, labs). However, exams for the students who have good internet can be arranged live using Webex or Zoom. Office hours can also be performed live for some students.
-
-**3. Every students has access to high speed internet**
-
-In this case, the professors can use live video-conferencing tools (Webex or Zoom) to conduct most of the class live. Mailing lists can be used to manage course communication.
-
-
-
-## How to Structure my Class Online?
-
-There are 6 components of any given class:
-
-**1. Course communication**
-
-How to communicate important announcements to students (new homework released, etc.)? These messages can be directed to one or many students.
-
-How to share a class calendar with students so that everyone is on the same page? (exam times, homework deadlines, etc.)
-
-**2. Lectures**
-
-How to deliver the lecture to students? What if many students don’t have ideal internet speed? 
-
-**3. Recitation (TD)**
-
-How to deliver homework assignments? How to deliver the recitation?
-
-**4. Labs (TP)**
-
-How to deliver the lab presentation? How to submit labs?
-
-**5. Exams**
-
-How to allow students to take exams remotely?
-
-**6. Office Hours**
-
-What are ways for professors or TAs to schedule 1-1 office hours with students?
-
-
-## Course communication 
-
-**Method 1: Google Classroom**
-
-
-
-
-![alt_text](../../images/tutorials/faq-2.png "image_tooltip")
-
-
-**Method 2: Mailing lists**
-
-Given that internet speed in Algeria is not the fastest, the best way to manage course communication is probably through a mailing list. Mailing lists allow you to communicate with all the students at once. Mailing lists are also suitable to anyone with poor internet (i.e., students can download emails, receive notifications of new emails, etc.).
-
-The easiest way to create mailing lists is through Google Groups. It is a free service to create mailing lists and to invite students to join them.
-
-
-
-*   Professors can send emails to all the students at once 
-*   Email access is free to anyone
-*   All the emails can be accessed through a website
-*   Professors can share a calendar that is visible to all students
-
-**What do I need to set this up?**
-
-First, create a gmail email address. 
-
-1. Visit [www.gmail.com](www.gmail.com)
-
-2. Follow the steps on the video below
-
-**Creating the Mailing Lists**
-
-To create the mailing lists, it is advisable to separate mailing lists based on usage. For instance, for a particular course (ABC), you may create 4 different mailing lists: TD, announcements, Questions/Answers and Labs
-
-
-
-
-![alt_text](../../images/tutorials/faq-3.png "image_tooltip")
-
-
-To create those mailing lists, please follow these steps:
-
-1. Access your Google Groups account: [https://groups.google.com/](https://groups.google.com/)
-
-2. Create a new mailing list, for example (you can name it anything): module-1234-TD (to be used for TD-related communications). Note the permission settings, adjust them as needed to control who is allowed to post on the mailing list. Note the email address of the list ([module-1234-td@googlegroups.com](mailto:module-1234-td@googlegroups.com)), this email address will be used to communicate with the members.
-
-
-![alt_text](../../images/tutorials/faq-4.gif "image_tooltip")
-
-
-3. Add the students’ emails to the list. Those emails can be from any email service (doesn’t have to be gmail)
-
-
  
-![alt_text](../../images/tutorials/faq-5.gif "image_tooltip")
+
+## Public cible
+
+Ce document s'adresse aux enseignants des universités  et écoles algériennes cherchant à adapter leurs cours au contexte de l’enseignement à distance.
+
+Après avoir lu ce document, l'instructeur sera en capacité de :
 
 
-4. Write an example email to the list: to write an email to the list members, simple write the email as you would any email (the recipient email here will be: module-1234-td@googlegroups.com)
 
- 
-![alt_text](../../images/tutorials/faq-6.png "image_tooltip")
+*   Définir une organisation de sa classe en ligne via des listes de diffusion
+*   Mettre en place différents canaux de communication pour interagir avec les étudiants
+*   Mettre en place un planning  de cours partagé avec les étudiants 
+*   Configurer un espace de stockage et de partage de ressources avec les étudiants en utilisant « Google Drive » 
+
+   
+## Quels sont les outils disponibles pour donner mes cours en ligne ?
+
+![](../../images/tutorials/faq-1-fr.png "")
 
 
-The email will be sent to all the list members. You can also view all the lists’ threads from the Google Groups interface:
+
+La figure ci-dessus illustre l'espace des outils en fonction de la qualité de la connexion à Internet.
 
  
 
-![alt_text](../../images/tutorials/faq-7.png "image_tooltip")
+**1. Faible débit d’internet pour tous les étudiants**
+
+Dans ce cas, il est conseillé que les enseignements aient lieu en mode hors ligne (pas de visioconférence en direct, etc.). Nous décrirons comment utiliser les listes de diffusion pour gérer les classes de cours dans ce cas.
+
+**2. Tout le monde n'a pas Internet haut débit**
+
+Dans ce cas, la majeure partie du cours se déroulera hors ligne (communication, cours magistraux, travaux dirigés, travaux pratiques). Cependant, les examens pour les étudiants qui ont une bonne connexion Internet peuvent être organisés en direct en utilisant des outils adaptés (Webex ou Zoom par exemple). Les échanges en face à face avec des étudiants, dans le cadre des horaires de réception des étudiants peuvent également être effectuées en direct pour certains étudiants. Avant de s’engager dans une telle démarche, il faut mesurer le pour et le contre d’une évaluation différenciée selon l'accès ou pas à une bonne connexion internet.
+
+**3. Tous les étudiants ont accès à Internet à haut débit**
+
+Dans ce cas, les enseignants peuvent utiliser des outils de visioconférence en direct (Webex ou Zoom) pour diriger la plupart des enseignements. Les listes de diffusion peuvent être utilisées pour gérer la communication.
 
 
-## Giving lectures
 
-**Live presentations**
+## Composantes de la structuration d’une classe à distance 
 
-Giving lectures over Zoom/Webex is the standard option if your students have a reliable internet connection. In order to share your presentation slides with your students while speaking, you could use the “share screen” feature of Zoom or Webex. However, the “share screen” feature requires a lot of internet bandwidth. A better alternative is to use Powerpoint Online Presentation, which will generate a link you can share with your students to follow your slide show. 
+Les 6 composantes que nous aborderons pour bien animer un enseignement à distance sont :
 
-For more details on this Powerpoint feature, please refer to: [https://support.microsoft.com/en-gb/office/broadcast-your-powerpoint-presentation-online-to-a-remote-audience-25330108-518e-44be-a281-e3d85f784fee?ui=en-us&rs=en-gb&ad=gb](https://support.microsoft.com/en-gb/office/broadcast-your-powerpoint-presentation-online-to-a-remote-audience-25330108-518e-44be-a281-e3d85f784fee?ui=en-us&rs=en-gb&ad=gb)
+**1. Communication avec les étudiants**
 
-**Offline presentations**
+Comment communiquer des annonces importantes aux étudiants (nouveaux devoirs publiés, etc.) ? Ces messages peuvent être adressés à un ou plusieurs étudiants.
 
-Powerpoint has a “record slideshow” feature that allows you to record your slideshow with your voice on it. Then you can share the presentation video with your students via Google Drive.
+Comment partager un planning  de cours avec les étudiants pour que tout le monde disposera des bonnes informations ?? (horaires des examens, date limite des devoirs, etc.)
 
-For more information: [https://support.office.com/en-us/article/video-record-presentations-2570dff5-f81c-40bc-b404-e04e95ffab33](https://support.office.com/en-us/article/video-record-presentations-2570dff5-f81c-40bc-b404-e04e95ffab33)
+**2. Conférences/Cours magistraux**
 
-## Managing exams
+Comment donner le cours aux étudiants ? Et si de nombreux étudiants n’ont pas le débit internet nécessaire ?
 
-**Live exams**
+**3. Travaux dirigés (TD)**
 
-If internet speed is not an issue for most students, a live exam can be conducted via Zoom or Webex. The students would have to turn on their computer camera before taking the exam. The exam format varies depending on the course, but the students can submit their exam answers electronically via email to the instructor.
+Comment les étudiants peuvent  soumettre les rendus des devoirs 
 
-**Take-home exams**
+**4. Travaux pratiques (TP)**
 
-If internet speed is an issue, the professor could email the exam document at the scheduled time and then asks the students to email back their answers within a specified time period (for example 2 hours). Ask the students to email their answers to the professor’s email address (which has to be known to the students from the beginning).
+Comment faire la présentation des travaux pratiques ? Comment soumettre les résultats des travaux pratiques ?
 
-## Managing course files
+**5. Examens et devoirs surveillés**
 
-You can use Google Drive to add content to your course. For example, video recordings, documents, etc. The following shows how to create a directory on Google Drive
+Comment permettre aux étudiants de passer des examens à distance ?
+
+**6. Heures de réception des étudiants**
+
+Comment les enseignants ou les assistants peuvent-ils prévoir et organiser des réunions individuelles avec leurs étudiants ?
+
+
+## Communication avec les étudiants
+
+### Méthode 1: Google Classroom
+
+
+
+[![Google Classroom](https://img.youtube.com/vi/lqlWBmqDUsY/0.jpg)](https://www.youtube.com/watch?v=lqlWBmqDUsY)
+
+
+### Méthode 2: Les listes de diffusion
+
+Étant donné la fluctuation de la vitesse d'Internet en Algérie, la façon la plus simple et fiable pour gérer la communication avec les étudiants est probablement d’utiliser la communication asynchrone avec des emails et des listes de diffusion. 
+
+Les listes de diffusion vous permettent de communiquer avec tous les étudiants à la fois. Les listes de diffusion conviennent également à toute personne disposant d'une mauvaise connexion Internet (les étudiants doivent être en mesure de  consulter leurs e-mails pour avoir accès aux communications de leurs enseignants et de télécharger les documents joints, mème avec une faible connexion internet. 
+
+La façon la plus simple de créer des listes de diffusion consiste à utiliser Google Groups. C'est un service gratuit pour créer des listes de diffusion et inviter des étudiants à les rejoindre.
+
+Grâce à ce service :
+
+
+
+*   Les professeurs peuvent envoyer des courriels à tous les étudiants à la fois
+*   L'accès au courrier électronique est gratuit pour tous
+*   Tous les e-mails ainsi que l’archive sont accessibles via un site Web
+*   Les enseignants peuvent partager un planning visible par tous les étudiants d’un groupe.
+
+**De quoi ai-je besoin pour configurer cela ?**
+
+Créez d'abord un compte gmail. Si vous l’avez, vous pouvez suivre les prochaines étapes
+
+1. Visitez [www.gmail.com](www.gmail.com)
+
+2. Suivez les étapes de la vidéo ci-dessous 
+
+**Création des listes de diffusion**
+
+Pour créer les listes de diffusion, il est conseillé de séparer les listes de diffusion en fonction du contexte d'utilisation. Par exemple, pour un cours (ABC), vous pouvez créer 4 listes de diffusion différentes : TD, annonces, questions / réponses et travaux pratiques
+
+
+![](../../images/tutorials/faq-3.png "")
+
+
+Pour créer ces listes de diffusion, veuillez suivre ces étapes :
+
+1. Accédez à votre compte Google Groups : [https://groups.google.com/](https://groups.google.com/)
+
+2. Créez une nouvelle liste de diffusion, par exemple : module-1234-TD (à utiliser pour les communications liées à aux TDs). Notez les paramètres d'autorisation, ajustez-les si nécessaire pour contrôler qui est autorisé à publier sur la liste de diffusion. Notez l'adresse e-mail de la liste ([module-1234-td@googlegroups.com](mailto:module-1234-td@googlegroups.com)), cette adresse e-mail sera utilisée pour communiquer avec les membres.
+
+
+![](../../images/tutorials/faq-4.gif "")
+
+
+
+3. Ajoutez les e-mails des étudiants à la liste. Ces e-mails peuvent provenir de n'importe quel service de messagerie (pas forcément gmail)
+
+
+![](../../images/tutorials/faq-5.gif "")
+
+
+
+4. Rédigez un exemple d'e-mail dans la liste : pour écrire aux membres de la liste, rédigez simplement l'e-mail comme vous le feriez pour tout e-mail (l'e-mail du destinataire sera dans ce cas là, l’adresse de la liste de diffusion  : module-1234-td@googlegroups.com)
+
+
+![](../../images/tutorials/faq-6.png "")
+
+
+
+L'e-mail sera envoyé à tous les membres de la liste. Vous pouvez également afficher tous les fils de discussion des listes depuis l'interface de Google Groupes :
+
+
+![](../../images/tutorials/faq-7.png "")
+
+
+
+## Donner des cours magistraux
+
+### Présentations en direct
+
+Donner des cours sur Zoom / Webex est l'option standard si vos étudiants ont une connexion Internet fiable. Afin de partager vos diapositives de présentation avec vos élèves pendant que vous parlez, vous pouvez utiliser la fonction « partager l'écran » de Zoom ou Webex. Cependant, la fonction « partager l'écran » nécessite beaucoup de bande passante Internet. Une meilleure alternative consiste à utiliser la présentation en ligne Powerpoint, qui générera un lien que vous pourrez partager avec vos élèves pour suivre votre diaporama.
+
+Pour plus de détails sur cette fonctionnalité Powerpoint, veuillez vous référer à : [https://support.microsoft.com/en-gb/office/broadcast-your-powerpoint-presentation-online-to-a-remote-audience-25330108-518e-44be-a281-e3d85f784fee?ui=en-us&rs=en-gb&ad=gb](https://support.microsoft.com/en-gb/office/broadcast-your-powerpoint-presentation-online-to-a-remote-audience-25330108-518e-44be-a281-e3d85f784fee?ui=en-us&rs=en-gb&ad=gb)
+
+### Présentations hors ligne
+
+Powerpoint dispose d'une fonction «enregistrer le diaporama» qui vous permet d'enregistrer votre diaporama avec votre voix dessus. Ensuite, vous pouvez partager la vidéo de présentation avec vos élèves via Google Drive.
+
+Pour plus d'informations : [https://support.office.com/en-us/article/video-record-presentations-2570dff5-f81c-40bc-b404-e04e95ffab33](https://support.office.com/en-us/article/video-record-presentations-2570dff5-f81c-40bc-b404-e04e95ffab33)
+
+## Examens
+
+### Examens en direct
+
+Si la vitesse d'Internet n'est pas un problème pour la plupart des étudiants, un examen en direct peut être effectué via Zoom ou Webex. Les étudiants devraient allumer leur caméra d'ordinateur avant de passer l'examen. Le format de l'examen varie en fonction des cours, mais les étudiants peuvent soumettre leurs réponses par courrier électronique à l'instructeur.
+
+### Examens à domicile
+
+Si la qualité de la connexion Internet est un frein, l’enseignant pourrait envoyer le document d'examen par courrier électronique à l'heure prévue, puis demander aux étudiants de renvoyer leurs réponses par courrier électronique dans un délai spécifié (par exemple 2 heures). 
+
+Demandez aux étudiants d'envoyer leurs réponses par e-mail à l'adresse e-mail de l’enseignant (qui doit être connue des étudiants dès le début). 
+
+Pour éviter que les étudiants travaillent ensemble sur le sujet et soumettent les mèmes résultats, il faut bien penser la conception du sujet d’examen au contexte de l’évaluation à distance. Il est recommandé par exemple d'éviter les questions fermées et opter plus pour des questions à réponses ouvertes, vous permettant d’apprécier la réponse de chaque étudiant.
+
+## Gestion des fichiers de cours
+
+Vous pouvez utiliser l’outil Google Drive afin de créer des dossiers partagés avec vos étudiants. Ces dossiers vous permettent de pour gérer  les supports et le contenu de  votre cours. Par exemple, des enregistrements vidéo, des documents, etc. Ce qui suit montre comment créer un répertoire sur Google Drive.
+
+Vous pouvez également utiliser le mème outil pour récupérer les livrables des étudiants, ainsi, les étudiants auront un seul endroit où vous envoyer les livrables et devoirs demandés, sans pour autant vous remplir votre boite de réception de messagerie. Imaginez si chaque semaine vos 150 étudiants doivent vous envoyer des devoirs par mail !
+
+
+
+1. Voici comment créer un dossier sur Google Drive
+
+
+![](../../images/tutorials/faq-8.gif "")
+
+
+
+2. Maintenant, nous créons des sous-répertoires et les partageons avec le bon groupe de la liste de diffusion souhaitée (ex: TD)
+
+
+![](../../images/tutorials/faq-9.gif "")
+
+
+
+3. Maintenant, assurez-vous d’ajuster les autorisations uniquement à la consultation afin que les étudiants ne puissent pas modifier leur contenu (Sauf s’il s’agit d’un dossier où les étudiants doivent soumettre leurs livrables).
+
+
+
+![](../../images/tutorials/faq-10.gif "")
+
+
+
+## Créer un calendrier de cours
+
+Les professeurs peuvent choisir de créer un calendrier Google partagé avec tous les étudiants pour communiquer les heures importantes des événements (examens, cours en direct, etc.). Pour ce faire, rendez-vous sur : [calendar.google.com](https://calendar.google.com/), puis suivez les vidéos ci-dessous pour créer un calendrier et le partager avec les étudiants de vos listes de diffusion
+
+1. Allez sur [https://calendar.google.com/](https://calendar.google.com/calendar/r)
+
+Ajoutez ensuite un nouveau calendrier pour votre classe (par exemple module 1234)
+
+
+![](../../images/tutorials/faq-11.gif "")
+
+
+2. Partagez le nouveau calendrier avec votre liste de diffusion :
+
+
+
+![](../../images/tutorials/faq-12.gif "")
+
+
+
+3. Désormais, chaque étudiant de la liste de diffusion aura le calendrier «module 1234» visible sur son calendrier Google (cela nécessite que les étudiants utilisent des adresses mail @gmail)
+
+## Idées Utiles
+
+**J'ai une adresse e-mail universitaire, est ce que je peux accéder à des outils d’enseignement gratuits en utilisant mon adresse e-mail universitaire ?**
+
+Certaines universités en Algérie (par exemple, ESI, USTHB) fournissent aux étudiants un e-mail officiel de l'école. Le fait d'avoir un courriel de l'école permet aux élèves d'utiliser une variété d'outils éducatifs gratuits. Par exemple :
+
+Piazza (www.piazza.com): il s'agit d'une puissante plate-forme de questions/réponses que l'instructeur utilise pour sa classe pour fournir un espace aux étudiants afin de pouvoir poser/répondre aux questions et pour publier des annonces.
+
  
 
-![alt_text](../../images/tutorials/faq-8.gif "image_tooltip")
+**Existe-t-il des outils pour surveiller les examens ?**
 
+Oui. Il existe des outils pour surveiller les étudiants pendant qu'ils passent leurs examens. ProctorTrack est le plus connu. Cet outil n'est pas gratuit. Vous ne l'utilisez donc que si votre école possède l'accès à ce service. ProctorTrack s'intègre également avec les plates-formes de gestion de cours populaires telles que Canvas ou Moodle. Plus d'informations ici :[https://www.proctortrack.com/](https://www.proctortrack.com/)
 
-2. Now we create sub-directories and share them with the right mailing list group (ex: TD)
+**Mon université a accès à des plateformes de gestion de cours telles que Moodle ou Canvas, dois-je les utiliser ?**
 
+Les plateformes de gestion de cours sont très utiles pour gérer votre classe de bout en bout. Si votre université a acheté l'accès à l'un d'eux, vous devriez suivre une formation ou demandez conseil à vos collègues pour les utiliser efficacement. Leurs sites Web fournissent généralement beaucoup de matériel de formation.
 
- 
-![alt_text](../../images/tutorials/faq-9.gif "image_tooltip")
+**Comment puis-je partager des questionnaires avec mes étudiants ?**
 
+Utiliser Google Forms ([https://docs.google.com/forms/u/0/](https://docs.google.com/forms/u/0/)) gratuitement en utilisant votre compte @gmail. Google Forms vous permet de créer des sondages, puis génère un lien que vous pouvez partager avec vos élèves. Dans le cas où vous envisagez de faire un examen / quiz à choix multiples, c'est un outil à considérer.
 
-3. Now, MAKE SURE YOU MARK THOSE DIRECTORIES AS VIEW ONLY so that students cannot change their content.
+**Comment puis-je communiquer mes disponibilités  et trouver les meilleurs créneaux qui conviennent à l’ensemble de mes étudiants ?**
 
- 
-![alt_text](../../images/tutorials/faq-10.gif "image_tooltip")
-
-
-## Create Class Calendar
-
-Professors may choose to create a Google Calendar that is shared with all the students to communicate important event times (exams, live lectures, etc.). To do so, go to: calendar.google.com, then follow the videos below to create a calendar and share it with your mailing lists
-
-1. Go to [https://calendar.google.com/](https://calendar.google.com/calendar/r)
-
-Then add a new calendar for your class (module 1234)
-
-
-![alt_text](../../images/tutorials/faq-11.gif "image_tooltip")
-
-
-2. Share the new calendar with your mailing list:
-
-
-
-![alt_text](../../images/tutorials/faq-12.gif "image_tooltip")
-
-
-3. Now every student in the mailing list will have the calendar “module 1234” visible on their Google calendar (this requires students to use @gmail email)
-
-## Useful Tidbits
-
-**I have a university email address, how do I access free tools using my university email?**
-
-Some universities in Algeria (e.g., ESI, USTHB) provide the students with an official school email. Having a school email enables the students to use a variety of free educational tools. For example:
-
-Piazza (www.piazza.com): this is a powerful QA platform that the instructor uses for their class to provide a space for students to ask/answer questions and to post announcements. 
-
-**Are there tools to proctor exams?**
-
-Yes. There are tools to proctor students while they are taking their exams. ProctorTrack is a popular one. This tool is not free. So you only use it if your school has purchased access to this service. ProctorTrack also integrates with popular course management platforms such as Canvas, Moodle and Canvas. More information here: [https://www.proctortrack.com/](https://www.proctortrack.com/)
-
-**My university has access to course management platforms such as Moodle or Canvas, should I use them?**
-
-Course management platforms are very helpful to manage your class end-to-end. If your university has purchased access to one of them, you should seek training to use them effectively. Their websites usually provide a lot of training material:
-
-**How do I share surveys with my students?**
-
-Use Google Forms ([https://docs.google.com/forms/u/0/](https://docs.google.com/forms/u/0/)) for free using your @gmail account. Google Forms allow you to author surveys and then generates a link that you can share with your students. In case you are thinking of doing a multiple choice exams/quizzes, this is the tool to consider.
-
-**How do I communicate my time availability and have my students communicate theirs?**
-
-Use Doodle ([www.doodle.com](www.doodle.com)) which allows you to put in your available time blocks, and then the students can pick whatever time blocks that suit them. This is important to know the best times to schedule important class events (exams, 1-1 sessions, etc.)
+Utiliser Doodle ([www.doodle.com](www.doodle.com)) qui vous permet de saisir vos plages horaires disponibles, puis les élèves peuvent choisir les plages horaires qui leur conviennent. Il est important de connaître les meilleurs moments pour planifier des événements de classe importants (examens, 1-1 séances, etc.)
