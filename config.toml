@@ -150,9 +150,9 @@ IsMultiLingual = true
   [[params.plugins.js]]
   URL = "plugins/SyoTimer/jquery.syotimer.min.js"
   [[params.plugins.js]]
-  URL = "http://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.32/jquery.form.js"
+  URL = "https://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.32/jquery.form.js"
   [[params.plugins.js]]
-  URL = "http://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.11.1/jquery.validate.min.js"
+  URL = "https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.11.1/jquery.validate.min.js"
   [[params.plugins.js]]
   URL = "plugins/search/fuse.min.js"
   [[params.plugins.js]]
