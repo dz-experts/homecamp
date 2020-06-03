@@ -35,15 +35,15 @@ IsMultiLingual = true
       URL = "speaker"
       weight = 3
 
-    [[languages.ar.menu.main]]
-      weight = 4
-      name = "دروس"
-      hasChildren = true
+  #  [[languages.ar.menu.main]]
+  #    weight = 4
+  #    name = "دروس"
+  #    hasChildren = true
 
-    [[languages.ar.menu.main]]
-      parent = "دروس"
-      name = "موارد"
-      URL = "faq"
+   #[[languages.ar.menu.main]]
+   #   parent = "دروس"
+    #  name = "موارد"
+    #  URL = "faq"
     
 
     [[languages.ar.menu.main]]
@@ -73,15 +73,15 @@ IsMultiLingual = true
       URL = "speaker"
       weight = 3
 
-    [[languages.en.menu.main]]
-      weight = 4
-      name = "Tutorials"
-      hasChildren = true
+  #  [[languages.en.menu.main]]
+  #    weight = 4
+  #    name = "Tutorials"
+   #   hasChildren = true
 
-    [[languages.en.menu.main]]
-      parent = "Tutorials"
-      name = "Resources"
-      URL = "faq"
+  #  [[languages.en.menu.main]]
+  #    parent = "Tutorials"
+  #    name = "Resources"
+  #    URL = "faq"
     
 
     [[languages.en.menu.main]]
@@ -115,15 +115,15 @@ IsMultiLingual = true
       URL = "speaker"
       weight = 3
 
-    [[languages.fr.menu.main]]
-      weight = 4
-      name = "Tutoriels"
-      hasChildren = true
+   # [[languages.fr.menu.main]]
+  #   weight = 4
+   #   name = "Tutoriels"
+   #   hasChildren = true
 
-    [[languages.fr.menu.main]]
-      parent = "Tutoriels"
-      name = "Ressources"
-      URL = "faq"
+  #  [[languages.fr.menu.main]]
+   #   parent = "Tutoriels"
+   #   name = "Ressources"
+   #   URL = "faq"
     
 
     [[languages.fr.menu.main]]
