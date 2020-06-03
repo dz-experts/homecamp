@@ -4,7 +4,7 @@ banner:
   date : "20 جوان على الساعة 18.00"
   image: "images/banner/banner-2-rtl.jpg"
   button:
-    enable : true
+    enable : false
     label : "تسجيل"
     link : "#"
 
@@ -20,17 +20,23 @@ counter:
 
 ############################## Event ##############################
 event:
-  enable : false
+  enable : true
   titleOutline : "الحدث"
   title : "ملتقى عبر الإنترنت"
   imageBG: "images/about/h1-gallery-img-7.jpg"
   image : "images/about/main-home-img-1.jpg"
-  content : "The objective of this homecamp is twofold: 
+  content : "في ظل إجراءات الحَجر الصِّحي الراهنة، تنظم مجموعة **We Algerians**  **مخيم We Algerians للتَّعلِيم**
 
-  - introduce instructors and students to the world of online education and the flexibility it can offer during this pandemic; 
 
-  - provide a think tank to brainstorm about the future of the Algerian higher-education institutions and how they can be more competitive. "
-  button:
+يَهِدف هذا المُخيم إلى فَتح الحِوار والنِّقاش مِع نُخبَة مِن البَاحثين والخُبرَاء الجَزائِريين حوْل التَّعلِيم والتَّكوِين في الجزائر ضِمن مِحورَين أَساسِين هُما:
+
+
+-  تَعزِيز اِستِعمَال التَّعلِيم الرَّقمِي وتَطوِيره خَاصة فِي ظَرف الوَباءِ العَالمِي الحَالِي  مِن خِلال تَكوِين الطَّلبة وَ الأَساتِذة والبَاحِثين فِي الوَسائِل المُتاحَة عَبرَ الإنْترنَت ومُرافَقتِهم  لِتَبنِّي هَذا المَنحَى.
+
+
+- تَكوِين فَرِيق عَمَل وبَحث دَائِم يَقُوم على تَطوِير الحُلُول وتَطوِير التَّعلِيم والتَّكوين في الجزائر و الاِرتِقَاء به إلى المُُستَويات الدَّولِية والعَالَمِيّة.
+"
+button:
     enable : false
     label : "Subscribe"
     link : "#"
@@ -49,7 +55,7 @@ cta:
 
 ####################### Schedule #############################
 schedule:
-  enable : false
+  enable : true
   # schedule data comes from "schedule.yml" file
 
 ####################### pricing #############################
@@ -77,7 +83,7 @@ sponsor:
       sponsor:
         # sponcor loop
         - logo : "images/logo-we.png"
-          link : "https://www.wealgerians.org"
+          link : "https://www.wealgerians.com"
       
     ############################ sponsor group loop
 #    - title : "Partners"

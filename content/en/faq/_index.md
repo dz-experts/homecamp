@@ -79,7 +79,7 @@ What are ways for professors or TAs to schedule 1-1 office hours with students?
 
 ## Course communication 
 
-### Method 1: Google Classroom**
+### Method 1: Google Classroom
 
 
 
@@ -87,7 +87,7 @@ What are ways for professors or TAs to schedule 1-1 office hours with students?
 
 [![Google Classroom](https://img.youtube.com/vi/lqlWBmqDUsY/0.jpg)](https://www.youtube.com/watch?v=lqlWBmqDUsY)
 
-### Method 2: Mailing lists**
+### Method 2: Mailing lists
 
 Given that internet speed in Algeria is not the fastest, the best way to manage course communication is probably through a mailing list. Mailing lists allow you to communicate with all the students at once. Mailing lists are also suitable to anyone with poor internet (i.e., students can download emails, receive notifications of new emails, etc.).
 

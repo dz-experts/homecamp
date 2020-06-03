@@ -1,12 +1,12 @@
 schedule:
   enable : true
-  titleOutline : "schedule"
+  titleOutline : "البرنامج"
   title : "Agenda"
-  content : "Planaries and workshops during a week about education in algeria"
+  content : "محاضرات وورش عمل خلال أسبوع حول التعليم في الجزائر"
   scheduleTab:
     ################################# tab itam loop
-    - title : "Day 1"
-      subtitle : "June, 20"
+    - title : "اليوم 1"
+      subtitle : "20 جوان"
       tabContentList:
         # tab content list
         - time : "18:00 – 19:30"
@@ -27,8 +27,8 @@ schedule:
           
           "
 
-    - title : "Day 2"
-      subtitle : "June, 21"
+    - title : "اليوم 2"
+      subtitle : "21 جوان"
       tabContentList:
         # tab content list
         - time : "18:00 – 19:00"
@@ -57,8 +57,8 @@ schedule:
           
           "
           
-    - title : "Day 3"
-      subtitle : "June, 22"
+    - title : "اليوم 3"
+      subtitle : " 22 جوان"
       tabContentList:
         # tab content list
         - time : "18:00 – 19:00"
@@ -87,8 +87,8 @@ schedule:
           
           "
           
-    - title : "Day 4"
-      subtitle : "June, 23"
+    - title : "اليوم 4"
+      subtitle : "23 جوان"
       tabContentList:
         # tab content list
         - time : "18:00 – 19:00"
@@ -117,8 +117,8 @@ schedule:
           
           "
           
-    - title : "Day 5"
-      subtitle : "June, 24"
+    - title : "اليوم 5"
+      subtitle : "24 جوان"
       tabContentList:
         # tab content list
         - time : "18:00 – 19:00"
@@ -147,8 +147,8 @@ schedule:
           
           "
           
-    - title : "Day 6"
-      subtitle : "June, 25"
+    - title : "اليوم 6"
+      subtitle : "25 جوان"
       tabContentList:
         # tab content list
         - time : "18:00 – 19:00"
@@ -178,8 +178,8 @@ schedule:
           "
           
        
-    - title : "Day 7"
-      subtitle : "June, 26"
+    - title : "اليوم 7"
+      subtitle : "26 جوان"
       tabContentList:
         # tab content list
         - time : "18:00 – 19:00"

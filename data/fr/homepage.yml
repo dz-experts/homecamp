@@ -1,17 +1,17 @@
 ############################# banner ################################
 banner:
   title : "WE Algerians EdCamp"
-  date : "June, 20, at 18.00"
+  date : "20 Juin à 18.00"
   image: "images/banner/banner-2.jpg"
   button:
-    enable : "Subscribe"
-    label : "Subscribe"
+    enable : false
+    label : "Inscription"
     link : "#"
 
 ########################## Counter #################################
 counter:
   enable : true
-  title : "**Count the day** until homecamp start"
+  title : "**Comptez la journée** jusqu'au départ du camp "
   # set timer
   year: "2020"
   month: "06"
@@ -21,18 +21,18 @@ counter:
 ############################## Event ##############################
 event:
   enable : true
-  titleOutline : "event"
-  title : "Education online event"
+  titleOutline : "Événement"
+  title : "Événement en ligne sur l'éducation"
   imageBG: "images/about/h1-gallery-img-7.jpg"
   image : "images/about/main-home-img-1.jpg"
-  content : "The objective of this homecamp is twofold: 
-
-  - introduce instructors and students to the world of online education and the flexibility it can offer during this pandemic; 
-
-  - provide a think tank to brainstorm about the future of the Algerian higher-education institutions and how they can be more competitive. "
+  content : "En réponse à la crise de la COVID-19 en Algérie et son impact direct sur le système éducatif, **We Algerians** organise un événement d’une semaine pour échanger sur l’éducation en Algérie. **We Algerians EdCamp** a deux objectifs : 
+  
+  - Introduire les enseignants et les étudiants à la pratique de l’enseignement à distance ainsi que la flexibilité que peut offrir cette dernière en ces temps de pandémie;
+  
+  - organiser un groupe de réflexion sur l’avenir de l’éducation et enseignement supérieur en Algérie, afin de monter en compétitivité."
   button:
-    enable : true
-    label : "Subscribe"
+    enable : false
+    label : "Inscription"
     link : "#"
 
 ######################### Call to action #########################
@@ -61,23 +61,23 @@ pricing:
 speaker:
   enable : true
   show : false
-  titleOutline : "Speakers"
-  title : "Speakers and guests"
+  titleOutline : "Conférenciers"
+  title : "Conférenciers et invités"
   # content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
   # speaker content comes from "content/speaker" folder
 
 ######################### sponsor ############################
 sponsor:
   enable :  true
-  titleOutline : "Partners"
-  title : "Organizers and Partners"
+  titleOutline : "Partenaires"
+  title : "Organisateurs et Partenaires"
   sponsorGroup:
     ############################ sponsor group loop
-    - title : "Organizers"
+    - title : "Organisateurs"
       sponsor:
         # sponcor loop
         - logo : "images/logo-we.png"
-          link : "https://www.wealgerians.org"
+          link : "https://www.wealgerians.com"
       
     ############################ sponsor group loop
 #    - title : "Partners"
@@ -89,18 +89,18 @@ sponsor:
   # call to action in sponsor
   cta:
     enable : true
-    title : "Want to help/be a sponsor ?"
+    title : "Vous voulez aider / être sponsor ?"
     #button
-    label : "contact us"
+    label : "contactez nous"
     link : "https://www.wealgerians.com/en-us/#contact"
 
 ################################ call to action 2 ########################
 cta2:
   enable : true
   image : "images/bg/cta-bg.jpg"
-  title : "TIME AND VENUE"
-  date : "June 20-26, 2020"
-  content : "Online!"
+  title : "HEURE ET LIEU"
+  date : "20-26 Juin 2020"
+  content : "En ligne !"
   button: 
     enable : false
     label : "Visit"
@@ -109,7 +109,11 @@ cta2:
 ############################### footer ####################################
 footer: 
   title : "WE Algerians EdCamp"
-  content : "The objective of this homecamp is twofold: (1) to introduce instructors and students to the world of online education and the flexibility it can offer during this pandemic; and (2) to provide a think tank to brainstorm about the future of the Algerian higher-education institutions and how they can be more competitive."
+  content : "En réponse à la crise de la COVID-19 en Algérie et son impact direct sur le système éducatif, **We Algerians** organise un événement d’une semaine pour échanger sur l’éducation en Algérie. **We Algerians EdCamp** a deux objectifs : 
+  
+  - Introduire les enseignants et les étudiants à la pratique de l’enseignement à distance ainsi que la flexibilité que peut offrir cette dernière en ces temps de pandémie;
+  
+  - organiser un groupe de réflexion sur l’avenir de l’éducation et enseignement supérieur en Algérie, afin de monter en compétitivité."
   copyright : "Copyright Reserved to WE-Algerians. 2020"
   social : 
     - icon : "tf-ion-social-facebook"

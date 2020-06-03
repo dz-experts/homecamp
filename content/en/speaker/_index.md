@@ -6,5 +6,5 @@ description: "this is meta description"
 bgImage : "images/bg/cta-bg.jpg"
 ---
 
-## Who're speaking
+## Who is speaking
 

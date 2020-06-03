@@ -27,18 +27,18 @@ IsMultiLingual = true
       [languages.ar.params.preloader]
         enable = true
       [languages.ar.params.navBtn]
-        enable = true
+        enable = false
         label = "تسجيل"
         link = "#"
-  #[[languages.ar.menu.main]]
-  #    name = "المتحدثون"
-  #    URL = "speaker"
-  #    weight = 3
+  [[languages.ar.menu.main]]
+      name = "المتحدثون"
+      URL = "speaker"
+      weight = 3
 
-  #  [[languages.ar.menu.main]]
-  #    weight = 4
-  #    name = "دروس"
-  #    hasChildren = true
+    [[languages.ar.menu.main]]
+      weight = 4
+      name = "دروس"
+      hasChildren = true
 
     [[languages.ar.menu.main]]
       parent = "دروس"
@@ -46,9 +46,9 @@ IsMultiLingual = true
       URL = "faq"
     
 
-   # [[languages.ar.menu.main]]
-   #     name = "البرنامج"
-   #     URL = "schedule"
+    [[languages.ar.menu.main]]
+        name = "البرنامج"
+        URL = "schedule"
 
   [languages.en]
     LanguageName = "English"
@@ -62,7 +62,7 @@ IsMultiLingual = true
       [languages.en.params.preloader]
         enable = true
       [languages.en.params.navBtn]
-        enable = true
+        enable = false
         label = "Subscribe"
         link = "#"
     [languages.en.params.i18nplugins]
@@ -104,7 +104,7 @@ IsMultiLingual = true
       [languages.fr.params.preloader]
         enable = true
       [languages.fr.params.navBtn]
-        enable = true
+        enable = false
         label = "Inscription"
         link = "#"
   [languages.fr.params.i18nplugins]
