@@ -136,9 +136,7 @@ IsMultiLingual = true
 
 ############################# Plugins ##############################
 [params.plugins]
-
   # CSS Plugins
-  
   [[params.plugins.css]]
   URL = "plugins/themefisher-font/style.css"
 
