@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https:/dz-experts.github.io/homecamp"
+baseURL = "https:/edcamp.wealgerians.com/"
 languageCode = "en"
 title = "WE Algerians EdCamp"
 theme = "homecamp"
