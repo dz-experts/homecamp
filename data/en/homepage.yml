@@ -11,7 +11,7 @@ banner:
 ########################## Counter #################################
 counter:
   enable : true
-  title : "**Countdown** to the homecamp start"
+  title : "**Countdown** to the HomeCamp start"
   # set timer
   year: "2020"
   month: "06"
