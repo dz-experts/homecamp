@@ -11,7 +11,7 @@ banner:
 ########################## Counter #################################
 counter:
   enable : true
-  title : "**Comptez la journée** jusqu'au départ du camp "
+  title : "**Compte à rebours**"
   # set timer
   year: "2020"
   month: "06"
