@@ -11,7 +11,7 @@ banner:
 ########################## Counter #################################
 counter:
   enable : true
-  title : "**Count the day** until homecamp start"
+  title : "**Countdown** to the homecamp start"
   # set timer
   year: "2020"
   month: "06"
@@ -33,7 +33,7 @@ In response to the COVID-19 crisis in Algeria and its direct impact on the educa
 
   - provide a think tank to brainstorm about the future of the Algerian higher-education institutions and how they can be more competitive. "
   button:
-    enable : true
+    enable : false
     label : "Subscribe"
     link : "#"
 
