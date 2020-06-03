@@ -135,6 +135,9 @@ p{
     a{
         color: $primary-color !important;
     }
+    body.rtl & {
+        letter-spacing: 0em;
+    }
 }
 a.disabled, .dropdown-item:disabled {
     /* Make the disabled links grayish*/
