@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http:/edcamp.wealgerians.com/"
+baseURL = "https:/edcamp.wealgerians.com/"
 languageCode = "en"
 title = "WE Algerians EdCamp"
 theme = "homecamp"
