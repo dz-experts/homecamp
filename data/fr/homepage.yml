@@ -27,9 +27,9 @@ event:
   image : "images/about/main-home-img-1.jpg"
   content : "En réponse à la crise de la COVID-19 en Algérie et son impact direct sur le système éducatif, **WE Algerians** organise un évènement d’une semaine pour échanger sur l’éducation en Algérie. **WE Algerians EdCamp** a deux objectifs : 
   
-  - Introduire les enseignants et les étudiants à la pratique de l’enseignement à distance ainsi que la flexibilité que peut offrir cette dernière en ces temps de pandémie;
-  
-  - organiser un groupe de réflexion sur l’avenir de l’éducation et enseignement supérieur en Algérie, afin de monter en compétitivité."
+  - Initier les enseignants et les étudiants à la pratique de l’enseignement à distance ainsi que la flexibilité que peut offrir cette dernière en ces temps de pandémie;
+
+  - Organiser un groupe de réflexion sur l’avenir de l’Éducation nationale et de l’Enseignement supérieur en Algérie, afin de monter en compétitivité."
   button:
     enable : false
     label : "Inscription"
@@ -113,9 +113,9 @@ footer:
   title : "WE Algerians EdCamp"
   content : "En réponse à la crise de la COVID-19 en Algérie et son impact direct sur le système éducatif, **WE Algerians** organise un évènement d’une semaine pour échanger sur l’éducation en Algérie. **WE Algerians EdCamp** a deux objectifs : 
   
-  -  Initier les enseignants et les étudiants à la pratique de l’enseignement à distance ainsi que la flexibilité que peut offrir cette dernière en ces temps de pandémie;
-  
-  -  Organiser un groupe de réflexion sur l’avenir de l’Éducation nationale et de l’Enseignement supérieur en Algérie, afin de monter en compétitivité."
+  - Initier les enseignants et les étudiants à la pratique de l’enseignement à distance ainsi que la flexibilité que peut offrir cette dernière en ces temps de pandémie;
+
+  - Organiser un groupe de réflexion sur l’avenir de l’Éducation nationale et de l’Enseignement supérieur en Algérie, afin de monter en compétitivité."
   copyright : "Copyright Reserved to WE-Algerians. 2020"
   social : 
     - icon : "tf-ion-social-facebook"
