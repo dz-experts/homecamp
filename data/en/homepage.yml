@@ -1,7 +1,7 @@
 ############################# banner ################################
 banner:
   title : "WE Algerians EdCamp"
-  date : "June, 20, at 18.00"
+  date : "June, 20, at 6 pm"
   image: "images/banner/banner-2.jpg"
   button:
     enable : false
@@ -11,7 +11,7 @@ banner:
 ########################## Counter #################################
 counter:
   enable : true
-  title : "**Countdown** to the HomeCamp start"
+  title : "Countdown"
   # set timer
   year: "2020"
   month: "06"
@@ -25,13 +25,13 @@ event:
   title : "Education online event"
   imageBG: "images/about/h1-gallery-img-7.jpg"
   image : "images/about/main-home-img-1.jpg"
-  content : "
-In response to the COVID-19 crisis in Algeria and its direct impact on the educational system, **We Algerians** is organizing an Education week camp **We Algerians EdCamp** that unfolds two objectives: 
+  content : " In response to the COVID-19 crisis in Algeria and its direct impact on the educational system, **WE Algerians** is organizing an Education week camp **WE Algerians EdCamp** that meetstwo objectives:
 
 
-  - introduce instructors and students to the world of online education and the flexibility it can offer during this pandemic; 
+- introduce  teachers and students to  online learning and training a convenient and flexible key solution  during COVID-19 pandemic;
 
-  - provide a think tank to brainstorm about the future of the Algerian higher-education institutions and how they can be more competitive. "
+
+- provide a Think Tank  to enable brainstorming about the future of Algerian post-secondary education institutions, and how they can be more competitive."
   button:
     enable : false
     label : "Subscribe"
@@ -65,8 +65,7 @@ speaker:
   show : false
   titleOutline : "Speakers"
   title : "Speakers and guests"
-  # content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
-  # speaker content comes from "content/speaker" folder
+  content : "To be announced!"
 
 ######################### sponsor ############################
 sponsor:
@@ -92,6 +91,7 @@ sponsor:
   cta:
     enable : true
     title : "Want to help/be a sponsor?"
+    content: " Want to be our sponsors? We want to hear from you!"
     #button
     label : "contact us"
     link : "https://www.wealgerians.com/en-us/#contact"
@@ -112,7 +112,7 @@ cta2:
 footer: 
   title : "WE Algerians EdCamp"
   content : "
-In response to the COVID-19 crisis in Algeria and its direct impact on the educational system, **We Algerians** is organizing an Education week camp **We Algerians EdCamp** that unfolds two objectives: 
+In response to the COVID-19 crisis in Algeria and its direct impact on the educational system, **WE Algerians** is organizing an Education week camp **WE Algerians EdCamp** that unfolds two objectives: 
 
 
 

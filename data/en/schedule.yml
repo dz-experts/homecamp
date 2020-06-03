@@ -2,24 +2,24 @@ schedule:
   enable : true
   titleOutline : "schedule"
   title : "Agenda"
-  content : "Planaries and workshops during a week about education in algeria"
+  content : "During a week, plenaries and workshops to be held  about Education in Algeria"
   scheduleTab:
     ################################# tab itam loop
     - title : "Day 1"
       subtitle : "June, 20"
       tabContentList:
         # tab content list
-        - time : "18:00 – 19:30"
+        - time : "6:00 – 7:30 pm"
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
-          ### Opening Planary
+          ### Opening Plenary
 
           
           "
                
         # tab content list
-        - time : "20:00 – 21:00"
+        - time : "8:00 – 9:00 pm"
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
@@ -31,7 +31,7 @@ schedule:
       subtitle : "June, 21"
       tabContentList:
         # tab content list
-        - time : "18:00 – 19:00"
+        - time : "6:00 – 7:30 pm"
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
@@ -41,7 +41,7 @@ schedule:
           "
                
         # tab content list
-        - time : "19:00 – 20:00"
+        - time : "7:00 – 8:00 pm"
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
@@ -61,7 +61,7 @@ schedule:
       subtitle : "June, 22"
       tabContentList:
         # tab content list
-        - time : "18:00 – 19:00"
+        - time : "6:00 – 7:30 pm"
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
@@ -71,7 +71,7 @@ schedule:
           "
                
         # tab content list
-        - time : "19:00 – 20:00"
+        - time : "7:00 – 8:00 pm"
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
@@ -79,7 +79,7 @@ schedule:
           
           "
 
-        - time : "21:00 – 21:00"
+        - time : "8:00 – 9:00 pm"
           image : "images/about/undraw_co-working_825n.svg"
           content : "
           
@@ -91,7 +91,7 @@ schedule:
       subtitle : "June, 23"
       tabContentList:
         # tab content list
-        - time : "18:00 – 19:00"
+        - time : "6:00 – 7:30 pm"
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
@@ -101,7 +101,7 @@ schedule:
           "
                
         # tab content list
-        - time : "19:00 – 20:00"
+        - time : "7:00 – 8:00 pm"
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
@@ -109,7 +109,7 @@ schedule:
           
           "
 
-        - time : "21:00 – 21:00"
+        - time : "8:00 – 9:00 pm"
           image : "images/about/undraw_co-working_825n.svg"
           content : "
           
@@ -121,7 +121,7 @@ schedule:
       subtitle : "June, 24"
       tabContentList:
         # tab content list
-        - time : "18:00 – 19:00"
+        - time : "6:00 – 7:30 pm"
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
@@ -131,7 +131,7 @@ schedule:
           "
                
         # tab content list
-        - time : "19:00 – 20:00"
+        - time : "7:00 – 8:00 pm"
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
@@ -139,7 +139,7 @@ schedule:
           
           "
 
-        - time : "21:00 – 21:00"
+        - time : "8:00 – 9:00 pm"
           image : "images/about/undraw_co-working_825n.svg"
           content : "
           
@@ -151,7 +151,7 @@ schedule:
       subtitle : "June, 25"
       tabContentList:
         # tab content list
-        - time : "18:00 – 19:00"
+        - time : "6:00 – 7:30 pm"
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
@@ -161,7 +161,7 @@ schedule:
           "
                
         # tab content list
-        - time : "19:00 – 20:00"
+        - time : "7:00 – 8:00 pm"
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
@@ -169,7 +169,7 @@ schedule:
           
           "
 
-        - time : "21:00 – 21:00"
+        - time : "8:00 – 9:00 pm"
           image : "images/about/undraw_co-working_825n.svg"
           content : "
           
@@ -182,7 +182,7 @@ schedule:
       subtitle : "June, 26"
       tabContentList:
         # tab content list
-        - time : "18:00 – 19:00"
+        - time : "6:00 – 7:30 pm"
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
@@ -192,7 +192,7 @@ schedule:
           "
                
         # tab content list
-        - time : "19:00 – 21:00"
+        - time : "7:00 – 8:30 pm"
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           

@@ -211,7 +211,7 @@ Vous pouvez également utiliser le mème outil pour récupérer les livrables de
 
 ## Créer un calendrier de cours
 
-Les professeurs peuvent choisir de créer un calendrier Google partagé avec tous les étudiants pour communiquer les heures importantes des événements (examens, cours en direct, etc.). Pour ce faire, rendez-vous sur : [calendar.google.com](https://calendar.google.com/), puis suivez les vidéos ci-dessous pour créer un calendrier et le partager avec les étudiants de vos listes de diffusion
+Les professeurs peuvent choisir de créer un calendrier Google partagé avec tous les étudiants pour communiquer les heures importantes des évènements (examens, cours en direct, etc.). Pour ce faire, rendez-vous sur : [calendar.google.com](https://calendar.google.com/), puis suivez les vidéos ci-dessous pour créer un calendrier et le partager avec les étudiants de vos listes de diffusion
 
 1. Allez sur [https://calendar.google.com/](https://calendar.google.com/calendar/r)
 
@@ -255,4 +255,4 @@ Utiliser Google Forms ([https://docs.google.com/forms/u/0/](https://docs.google.
 
 **Comment puis-je communiquer mes disponibilités  et trouver les meilleurs créneaux qui conviennent à l’ensemble de mes étudiants ?**
 
-Utiliser Doodle ([www.doodle.com](www.doodle.com)) qui vous permet de saisir vos plages horaires disponibles, puis les élèves peuvent choisir les plages horaires qui leur conviennent. Il est important de connaître les meilleurs moments pour planifier des événements de classe importants (examens, 1-1 séances, etc.)
+Utiliser Doodle ([www.doodle.com](www.doodle.com)) qui vous permet de saisir vos plages horaires disponibles, puis les élèves peuvent choisir les plages horaires qui leur conviennent. Il est important de connaître les meilleurs moments pour planifier des évènements de classe importants (examens, 1-1 séances, etc.)

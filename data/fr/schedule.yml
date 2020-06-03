@@ -2,7 +2,7 @@ schedule:
   enable : true
   titleOutline : "planning"
   title : "Agenda"
-  content : "Des planarières et workshops pendant une semaine à propos de l'education en Algérie"
+  content : "Pendant une semaine, des plénières et des ateliers portant sur le thème de l’éducation en Algérie seront organisés."
   scheduleTab:
     ################################# tab itam loop
     - title : "Jour 1"
@@ -13,7 +13,7 @@ schedule:
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
-          ### Opening Planary
+          ###  Plénière d’ouverture
 
           
           "
@@ -23,7 +23,7 @@ schedule:
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
-          ### workshop 1.1
+          ### Atelier 1.1
           
           "
 
@@ -35,7 +35,7 @@ schedule:
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
-          ### Planary
+          ### Plénière
 
           
           "
@@ -45,7 +45,7 @@ schedule:
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
-          ### workshop 2.1
+          ### Atelier 2.1
           
           "
 
@@ -53,7 +53,7 @@ schedule:
           image : "images/about/undraw_co-working_825n.svg"
           content : "
           
-          ### workshop 2.1
+          ### Atelier 2.1
           
           "
           
@@ -65,7 +65,7 @@ schedule:
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
-          ### Planary
+          ### Plénière
 
           
           "
@@ -75,7 +75,7 @@ schedule:
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
-          ### workshop 3.1
+          ### Atelier 3.1
           
           "
 
@@ -83,7 +83,7 @@ schedule:
           image : "images/about/undraw_co-working_825n.svg"
           content : "
           
-          ### workshop 3.2
+          ### Atelier 3.2
           
           "
           
@@ -95,7 +95,7 @@ schedule:
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
-          ### Planary
+          ### Plénière
 
           
           "
@@ -105,7 +105,7 @@ schedule:
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
-          ### workshop 4.1
+          ### Atelier 4.1
           
           "
 
@@ -113,7 +113,7 @@ schedule:
           image : "images/about/undraw_co-working_825n.svg"
           content : "
           
-          ### workshop 4.2
+          ### Atelier 4.2
           
           "
           
@@ -125,7 +125,7 @@ schedule:
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
-          ### Planary
+          ### Plénière
 
           
           "
@@ -135,7 +135,7 @@ schedule:
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
-          ### workshop 5.1
+          ### Atelier 5.1
           
           "
 
@@ -143,7 +143,7 @@ schedule:
           image : "images/about/undraw_co-working_825n.svg"
           content : "
           
-          ### workshop 5.2
+          ### Atelier 5.2
           
           "
           
@@ -155,7 +155,7 @@ schedule:
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
-          ### Planary
+          ### Plénière
 
           
           "
@@ -165,7 +165,7 @@ schedule:
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
-          ### workshop 6.1
+          ### Atelier 6.1
           
           "
 
@@ -173,7 +173,7 @@ schedule:
           image : "images/about/undraw_co-working_825n.svg"
           content : "
           
-          ### workshop 6.2
+          ### Atelier 6.2
           
           "
           
@@ -186,7 +186,7 @@ schedule:
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
-          ### workshop 7
+          ### Atelier 7
 
           
           "
@@ -196,7 +196,7 @@ schedule:
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
-          ### Closing Planary
+          ### Plénière
           
           "
 

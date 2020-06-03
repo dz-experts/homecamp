@@ -14,7 +14,7 @@ IsMultiLingual = true
   [languages.ar]
     languagedirection = "rtl"
     LanguageName = "العربية"
-    title = "مخيم We Algerians للتعليم"
+    title = "مخيم WE Algerians للتعليم"
     weight = 2
     contentDir = "content/ar"
   [languages.ar.params.i18nplugins]
