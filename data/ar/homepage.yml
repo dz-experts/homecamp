@@ -3,6 +3,7 @@ banner:
   title : "مخيم WE Algerians للتعليم"
   date : "20 جوان على الساعة 18.00"
   image: "images/banner/banner-2-rtl.jpg"
+  dates : "من 20 إلى 26 جوان 2020"
   button:
     enable : false
     label : "تسجيل"
