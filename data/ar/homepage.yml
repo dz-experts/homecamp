@@ -76,7 +76,7 @@ speaker:
 sponsor:
   enable :  false
   titleOutline : "Partners"
-  title : "Organizers and Partners"
+  title : ""
   sponsorGroup:
     ############################ sponsor group loop
     - title : "Organizers"

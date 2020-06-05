@@ -1,8 +1,8 @@
 schedule:
   enable : true
   titleOutline : "planning"
-  title : "Agenda"
-  content : "Pendant une semaine, des plénières et des ateliers portant sur le thème de l’éducation en Algérie seront organisés."
+  title : ""
+  content : "Le thème des plénières et des ateliers portent sur l'éducation en Algérie."
   scheduleTab:
     ################################# tab itam loop
     - title : "Jour 1"
@@ -196,7 +196,7 @@ schedule:
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
-          ### Plénière
+          ### Plénière de clôture
           
           "
 

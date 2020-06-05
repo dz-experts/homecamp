@@ -22,7 +22,7 @@ counter:
 event:
   enable : true
   titleOutline : "Évènement"
-  title : "Évènement en ligne sur l'éducation"
+  title : "L'Éducation en Algérie"
   imageBG: "images/about/h1-gallery-img-7.jpg"
   image : "images/about/main-home-img-1.jpg"
   content : "En réponse à la crise de la COVID-19 en Algérie et son impact direct sur le système éducatif, **WE Algerians** organise un évènement d’une semaine pour échanger sur l’éducation en Algérie. **WE Algerians EdCamp** a deux objectifs : 
@@ -90,7 +90,7 @@ sponsor:
   # call to action in sponsor
   cta:
     enable : true
-    title : "Vous voulez aider / être sponsor ?"
+    title : ""
     content : "Nous sommes ouverts à tout type de partenariat (financier, médiatique ou d’influenceurs)"
     #button
     label : "contactez nous"

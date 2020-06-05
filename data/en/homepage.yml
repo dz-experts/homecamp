@@ -1,10 +1,10 @@
 ############################# banner ################################
 banner:
   title : "WE Algerians EdCamp"
-  date : "June, 20, at 6 pm"
+  date : "June 20, at 6:00 pm"
   image: "images/banner/banner-2.jpg"
   button:
-    enable : false
+    enable : true
     label : "Subscribe"
     link : "#"
 
@@ -22,18 +22,18 @@ counter:
 event:
   enable : true
   titleOutline : "event"
-  title : "Education online event"
+  title : "Education in Algeria"
   imageBG: "images/about/h1-gallery-img-7.jpg"
   image : "images/about/main-home-img-1.jpg"
-  content : " In response to the COVID-19 crisis in Algeria and its direct impact on the educational system, **WE Algerians** is organizing an Education week camp **WE Algerians EdCamp** that meetstwo objectives:
+  content : " In response to the COVID-19 crisis in Algeria and its direct impact on the educational system, **WE Algerians** is organizing an Education week camp **WE Algerians EdCamp** that meets two objectives:
 
 
 - introduce  teachers and students to  online learning and training a convenient and flexible key solution  during COVID-19 pandemic;
 
 
-- provide a Think Tank  to enable brainstorming about the future of Algerian post-secondary education institutions, and how they can be more competitive."
+- provide a Think Tank  to enable brainstorming about the future of Algerian education institutions, and how they can be more competitive."
   button:
-    enable : false
+    enable : true
     label : "Subscribe"
     link : "#"
 
@@ -71,7 +71,7 @@ speaker:
 sponsor:
   enable :  true
   titleOutline : "Partners"
-  title : "Organizers and Partners"
+  title : ""
   sponsorGroup:
     ############################ sponsor group loop
     - title : "Organizers"
@@ -90,10 +90,10 @@ sponsor:
   # call to action in sponsor
   cta:
     enable : true
-    title : "Want to help/be a sponsor?"
-    content: " Want to be our sponsors? We want to hear from you!"
+    title : ""
+    content: " Want to be our Sponsor? We want to hear from you!"
     #button
-    label : "contact us"
+    label : "Please contact us"
     link : "https://www.wealgerians.com/en-us/#contact"
 
 ################################ call to action 2 ########################
@@ -112,13 +112,13 @@ cta2:
 footer: 
   title : "WE Algerians EdCamp"
   content : "
-In response to the COVID-19 crisis in Algeria and its direct impact on the educational system, **WE Algerians** is organizing an Education week camp **WE Algerians EdCamp** that meetstwo objectives:
+In response to the COVID-19 crisis in Algeria and its direct impact on the educational system, **WE Algerians** is organizing an Education week camp **WE Algerians EdCamp** that meets two objectives:
 
 
 - introduce  teachers and students to  online learning and training a convenient and flexible key solution  during COVID-19 pandemic;
 
 
-- provide a Think Tank  to enable brainstorming about the future of Algerian post-secondary education institutions, and how they can be more competitive."
+- provide a Think Tank  to enable brainstorming about the future of Algerian education institutions, and how they can be more competitive."
   copyright : "Copyright Reserved to WE-Algerians. 2020"
   social : 
     - icon : "tf-ion-social-facebook"
