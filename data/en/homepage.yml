@@ -18,6 +18,8 @@ counter:
   month: "06"
   day: "20"
   hour: "18"
+  minute: "00"
+  language: "eng"
 
 ############################## Event ##############################
 event:

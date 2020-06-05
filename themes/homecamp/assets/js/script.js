@@ -6,17 +6,32 @@
     $('.preloader').fadeOut(100);
   });
 
+  $.syotimerLang.ara =  {
+    second: ['ثانية', 'ثانية'],
+    minute: ['دقيقة', 'دقيقة'],
+    hour: ['ساعة', 'ساعة'],
+    day: ['يوم', 'يوم']
+  };
+  $.syotimerLang.fre =  {
+    second: ['seconde', 'secondes'],
+    minute: ['minute', 'minutes'],
+    hour: ['heure', 'heures'],
+    day: ['jour', 'jours']
+  };
   // Count Down JS
   var Year = $('#simple-timer').attr('data-year');
   var Month = $('#simple-timer').attr('data-month');
   var Day = $('#simple-timer').attr('data-day');
   var Hour = $('#simple-timer').attr('data-hour');
+  var Minute = $('#simple-timer').attr('data-minute');
+  var Lang = $('#simple-timer').attr('data-language');
   $('#simple-timer').syotimer({
     year: Year,
     month: Month,
     day: Day,
     hour: Hour,
-    minute: 0
+    minute: Minute, 
+    lang: Lang
   });
 
   /* contact form */
