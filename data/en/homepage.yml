@@ -2,9 +2,10 @@
 banner:
   title : "WE Algerians EdCamp"
   date : "June 20, at 6:00 pm"
+  dates : "from 20<sup>th</sup> to 26<sup>th</sup> of june 2020"
   image: "images/banner/banner-2.jpg"
   button:
-    enable : true
+    enable : false
     label : "Subscribe"
     link : "#"
 
@@ -98,7 +99,7 @@ sponsor:
 
 ################################ call to action 2 ########################
 cta2:
-  enable : true
+  enable : false
   image : "images/bg/cta-bg.jpg"
   title : "TIME AND VENUE"
   date : "June 20-26, 2020"

@@ -5,10 +5,12 @@
 <section class="section-banner d-flex align-items-center" style="background-image: url({{$data.homepage.banner.image | absURL }});">
   <div class="container">
     <div class="row">
-      <div class="col-lg-7 mr-auto">
+      <div class="col-lg-5 mr-auto">
         <div class="banner-content">
           <span>{{ $data.homepage.banner.date }}</span>
-          <h2 class="mt-3 mb-5">{{ $data.homepage.banner.title | markdownify | markdownify }}</h2>
+          <h2 class="mt-3 mb-2">{{ $data.homepage.banner.title  | markdownify }}</h2>
+          <h4 class="mb-2 mt-2">{{ $data.homepage.banner.dates | safeHTML }}</h4>
+           
           {{ if $data.homepage.banner.button.enable }}
           {{ with $data.homepage.banner.button }}
           <a href="{{ .link | absURL }}" class="btn btn-hero btn-rounded">{{ .label }}</a>

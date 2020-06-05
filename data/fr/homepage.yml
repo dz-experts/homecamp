@@ -2,6 +2,7 @@
 banner:
   title : "WE Algerians EdCamp"
   date : "20 Juin à 18.00"
+  dates : "du 20 au 26 juin 2020"
   image: "images/banner/banner-2.jpg"
   button:
     enable : false
@@ -98,7 +99,7 @@ sponsor:
 
 ################################ call to action 2 ########################
 cta2:
-  enable : true
+  enable : false
   image : "images/bg/cta-bg.jpg"
   title : "HEURE ET LIEU"
   date : "20-26 Juin 2020"
