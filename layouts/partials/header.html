@@ -156,7 +156,7 @@
         {{ if .Site.Params.navBtn.enable }}
         {{ "<!-- get start btn -->" | safeHTML }}
         <a href="{{ .Site.Params.navBtn.link | absLangURL }}"
-          class="btn btn-secondary btn-rounded mt-3 mt-lg-0">{{ .Site.Params.navBtn.label }}</a>
+          class="btn btn-secondary btn-rounded mt-3 mt-lg-0" target="_blank">{{ .Site.Params.navBtn.label }}</a>
         {{ end }}
       </div>
     </div>

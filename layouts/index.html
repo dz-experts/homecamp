@@ -13,7 +13,7 @@
            
           {{ if $data.homepage.banner.button.enable }}
           {{ with $data.homepage.banner.button }}
-          <a href="{{ .link | absURL }}" class="btn btn-hero btn-rounded">{{ .label }}</a>
+          <a href="{{ .link | absURL }}" class="btn btn-hero btn-rounded" target="_blank">{{ .label }}</a>
           {{ end}}
           {{ end}}
         </div>
