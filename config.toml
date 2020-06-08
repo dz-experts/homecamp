@@ -27,9 +27,9 @@ IsMultiLingual = true
       [languages.ar.params.preloader]
         enable = true
       [languages.ar.params.navBtn]
-        enable = false
+        enable = true
         label = "تسجيل"
-        link = "#"
+        link = "https://forms.gle/NX39kkEHYP79kaxT6"
   [[languages.ar.menu.main]]
       name = "المتحدثون"
       URL = "speaker"
@@ -62,9 +62,9 @@ IsMultiLingual = true
       [languages.en.params.preloader]
         enable = true
       [languages.en.params.navBtn]
-        enable = false
+        enable = true
         label = "Subscribe"
-        link = "#"
+        link = "https://forms.gle/NX39kkEHYP79kaxT6"
     [languages.en.params.i18nplugins]
       [[languages.en.params.i18nplugins.css]]
         URL = "plugins/bootstrap/css/bootstrap.min.css"  
@@ -104,9 +104,9 @@ IsMultiLingual = true
       [languages.fr.params.preloader]
         enable = true
       [languages.fr.params.navBtn]
-        enable = false
+        enable = true
         label = "Inscription"
-        link = "#"
+        link = "https://forms.gle/NX39kkEHYP79kaxT6"
   [languages.fr.params.i18nplugins]
       [[languages.fr.params.i18nplugins.css]]
         URL = "plugins/bootstrap/css/bootstrap.min.css"  

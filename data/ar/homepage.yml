@@ -5,9 +5,9 @@ banner:
   image: "images/banner/banner-2-rtl.jpg"
   dates : "من 20 إلى 26 جوان 2020"
   button:
-    enable : false
+    enable : true
     label : "تسجيل"
-    link : "#"
+    link : "https://forms.gle/NX39kkEHYP79kaxT6"
 
 ########################## Counter #################################
 counter:
@@ -40,9 +40,9 @@ event:
 - تَكوِين فَرِيق عَمَل وبَحث دَائِم يَقُوم على تَطوِير الحُلُول وتَطوِير التَّعلِيم والتَّكوين في الجزائر و الاِرتِقَاء به إلى المُُستَويات الدَّولِية والعَالَمِيّة.
 "
 button:
-    enable : false
-    label : "Subscribe"
-    link : "#"
+    enable : true
+    label : "تسجيل"
+    link : "https://forms.gle/NX39kkEHYP79kaxT6"
 
 ######################### Call to action #########################
 cta:

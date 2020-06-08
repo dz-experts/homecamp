@@ -5,9 +5,9 @@ banner:
   dates : "from 20<sup>th</sup> to 26<sup>th</sup> of june 2020"
   image: "images/banner/banner-2.jpg"
   button:
-    enable : false
+    enable : true
     label : "Subscribe"
-    link : "#"
+    link : "https://forms.gle/NX39kkEHYP79kaxT6"
 
 ########################## Counter #################################
 counter:
@@ -38,7 +38,7 @@ event:
   button:
     enable : true
     label : "Subscribe"
-    link : "#"
+    link : "https://forms.gle/NX39kkEHYP79kaxT6"
 
 ######################### Call to action #########################
 cta:

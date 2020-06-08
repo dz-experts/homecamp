@@ -5,9 +5,9 @@ banner:
   dates : "du 20 au 26 juin 2020"
   image: "images/banner/banner-2.jpg"
   button:
-    enable : false
+    enable : true
     label : "Inscription"
-    link : "#"
+    link : "https://forms.gle/NX39kkEHYP79kaxT6"
 
 ########################## Counter #################################
 counter:
@@ -34,9 +34,9 @@ event:
 
   - Organiser un groupe de réflexion sur l’avenir de l’Éducation nationale et de l’Enseignement supérieur en Algérie, afin de monter en compétitivité."
   button:
-    enable : false
+    enable : true
     label : "Inscription"
-    link : "#"
+    link : "https://forms.gle/NX39kkEHYP79kaxT6"
 
 ######################### Call to action #########################
 cta:
