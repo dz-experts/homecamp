@@ -84,11 +84,10 @@ sponsor:
           link : "https://www.wealgerians.com"
       
     ############################ sponsor group loop
-#    - title : "Partners"
-#      sponsor:
-#        # sponcor loop
-#        - logo : "images/clients/client-img-26.png"
-#          link : "https://www.wealgerians.org"
+    - title : "Partenaires"
+      sponsor:
+        - logo : "images/cse.png"
+          link : "https://cse.club"
         
   # call to action in sponsor
   cta:
