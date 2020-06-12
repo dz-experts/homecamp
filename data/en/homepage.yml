@@ -6,7 +6,7 @@ banner:
   image: "images/banner/banner-2.jpg"
   button:
     enable : true
-    label : "Subscribe"
+    label : "Register"
     link : "https://forms.gle/NX39kkEHYP79kaxT6"
 
 ########################## Counter #################################
