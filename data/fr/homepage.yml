@@ -83,11 +83,7 @@ sponsor:
         - logo : "images/logo-we.png"
           link : "https://www.wealgerians.com"
       
-    ############################ sponsor group loop
-    - title : "Partenaires"
-      sponsor:
-        - logo : "images/cse.png"
-          link : "https://cse.club"
+    
         
   # call to action in sponsor
   cta:
