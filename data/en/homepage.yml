@@ -37,7 +37,7 @@ event:
 - provide a Think Tank  to enable brainstorming about the future of Algerian education institutions, and how they can be more competitive."
   button:
     enable : true
-    label : "Subscribe"
+    label : "Register"
     link : "https://forms.gle/NX39kkEHYP79kaxT6"
 
 ######################### Call to action #########################

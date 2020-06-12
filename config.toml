@@ -63,7 +63,7 @@ IsMultiLingual = true
         enable = true
       [languages.en.params.navBtn]
         enable = true
-        label = "Subscribe"
+        label = "Register"
         link = "https://forms.gle/NX39kkEHYP79kaxT6"
     [languages.en.params.i18nplugins]
       [[languages.en.params.i18nplugins.css]]
