@@ -50,7 +50,7 @@
 
 .time-table{
 	.time{
-		flex-basis: 30%;
+		flex-basis: 33%;
 	}
 	.content{
 		flex-basis:60%;
@@ -61,8 +61,13 @@
 		img{
 		}
 	}
-
 	li{
+		p{
+			margin: 0em !important;
+		}
+	}
+
+	.list{
 		box-shadow: 0 15px 38px 0 rgba(0, 0, 0, 0.1);
 	}
 }

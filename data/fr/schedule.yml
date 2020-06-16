@@ -16,6 +16,63 @@ schedule:
           ###  Plénière d’ouverture
 
           
+          **Forces of Change in the Digital Age**
+
+          - Kamal Youcef Toumi
+
+
+          - Yacine Oualid
+
+
+          - Leah Bitat
+
+
+          - Fatima Zohra Benhamida"
+          
+          
+               
+        # tab content list
+        - time : "20:00 – 21:00"
+          image : "images/about/undraw_shared_workspace_hwky.svg"
+          content : "
+          
+          ### Atelier 1
+          
+           **Guidelines for offering distance-learning classes**
+
+          
+          - Saoussen Cheddadi
+          
+          
+          - Kindi Rezig 
+          
+          
+          - Sohaib Lafifi"
+
+    - title : "Jour 2"
+      subtitle : "21 Juin"
+      tabContentList:
+        # tab content list
+        - time : "18:00 – 19:30"
+          image : "images/about/undraw_video_call_kxyp.svg"
+          content : "
+          
+          ### Plénière
+          
+          
+          **How can technology help overcome the different challenges of education in Algeria?**
+
+          - Saoussen Cheddadi 
+          
+          
+          - Azouaou Faiçal 
+          
+          
+          - Taha Houssine Zerguini
+          
+          
+          - Noureddine Bekkis
+          
           "
                
         # tab content list
@@ -23,60 +80,40 @@ schedule:
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
-          ### Atelier 1.1
+          ### Atelier 2
           
-          "
-
-    - title : "Jour 2"
-      subtitle : "21 Juin"
-      tabContentList:
-        # tab content list
-        - time : "18:00 – 19:00"
-          image : "images/about/undraw_video_call_kxyp.svg"
-          content : "
-          
-          ### Plénière
+          **Gérer son enseignement à distance (enseignants)**
 
           
-          "
-               
-        # tab content list
-        - time : "19:00 – 20:00"
-          image : "images/about/undraw_shared_workspace_hwky.svg"
-          content : "
-          
-          ### Atelier 2.1
-          
-          "
-
-        - time : "21:00 – 21:00"
-          image : "images/about/undraw_co-working_825n.svg"
-          content : "
-          
-          ### Atelier 2.1
-          
-          "
+          - Kamel Boussafi
+          " 
           
     - title : "Jour 3"
       subtitle : " 22 Juin"
       tabContentList:
         # tab content list
-        - time : "18:00 – 19:00"
+        - time : "18:00 – 19:30"
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
           ### Plénière
 
+          **Formations en ligne : Comment développer l’engagement des apprenants**
           
+          - Yannig Raffenel
           "
                
         # tab content list
-        - time : "19:00 – 20:00"
+        - time : "20:00 – 21:00"
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
-          ### Atelier 3.1
+          ### Atelier 3
           
+           **Organiser son environnement de travail pour apprendre à distance (étudiants)**
+
+          
+          - Salma Bekkouche
           "
 
         - time : "21:00 – 21:00"
@@ -91,7 +128,7 @@ schedule:
       subtitle : "23 Juin"
       tabContentList:
         # tab content list
-        - time : "18:00 – 19:00"
+        - time : "18:00 – 19:30"
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
@@ -99,21 +136,13 @@ schedule:
 
           
           "
-               
-        # tab content list
-        - time : "19:00 – 20:00"
-          image : "images/about/undraw_shared_workspace_hwky.svg"
-          content : "
           
-          ### Atelier 4.1
-          
-          "
 
-        - time : "21:00 – 21:00"
+        - time : "20:00 – 21:00"
           image : "images/about/undraw_co-working_825n.svg"
           content : "
           
-          ### Atelier 4.2
+          ### Atelier 4
           
           "
           
@@ -121,7 +150,7 @@ schedule:
       subtitle : "24 Juin"
       tabContentList:
         # tab content list
-        - time : "18:00 – 19:00"
+        - time : "18:00 – 19:30"
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
@@ -130,20 +159,12 @@ schedule:
           
           "
                
-        # tab content list
-        - time : "19:00 – 20:00"
-          image : "images/about/undraw_shared_workspace_hwky.svg"
-          content : "
-          
-          ### Atelier 5.1
-          
-          "
 
-        - time : "21:00 – 21:00"
+        - time : "20:00 – 21:00"
           image : "images/about/undraw_co-working_825n.svg"
           content : "
           
-          ### Atelier 5.2
+          ### Atelier 5
           
           "
           
@@ -151,7 +172,7 @@ schedule:
       subtitle : "25 Juin"
       tabContentList:
         # tab content list
-        - time : "18:00 – 19:00"
+        - time : "17:00 – 19:30"
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
@@ -160,20 +181,12 @@ schedule:
           
           "
                
-        # tab content list
-        - time : "19:00 – 20:00"
-          image : "images/about/undraw_shared_workspace_hwky.svg"
-          content : "
-          
-          ### Atelier 6.1
-          
-          "
 
-        - time : "21:00 – 21:00"
+        - time : "20:00 – 21:00"
           image : "images/about/undraw_co-working_825n.svg"
           content : "
           
-          ### Atelier 6.2
+          ### Atelier 6
           
           "
           
@@ -181,18 +194,10 @@ schedule:
     - title : "Jour 7"
       subtitle : "26 Juin"
       tabContentList:
-        # tab content list
-        - time : "18:00 – 19:00"
-          image : "images/about/undraw_video_call_kxyp.svg"
-          content : "
-          
-          ### Atelier 7
-
-          
-          "
+       
                
         # tab content list
-        - time : "19:00 – 21:00"
+        - time : "18:00 – 20:00"
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           

@@ -9,196 +9,214 @@ schedule:
       subtitle : "June 20"
       tabContentList:
         # tab content list
-        - time : "6:00 – 7:30 pm"
+        - time : "6:00 – 7:30 p.m."
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
           ### Opening Plenary
 
+
+          **Forces of Change in the Digital Age**
+
+          - Kamal Youcef Toumi
+
+
+          - Yacine Oualid
+
+
+          - Leah Bitat
+
+
+          - Fatima Zohra Benhamida
           
           "
                
         # tab content list
-        - time : "8:00 – 9:00 pm"
+        - time : "8:00 – 9:00 p.m."
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
-          ### Workshop 101
+          ### Workshop 1
+
+
+          **Guidelines for offering distance-learning classes**
+
+          
+          - Saoussen Cheddadi
+          
+          
+          - Kindi Rezig 
+          
+          
+          - Sohaib Lafifi
           
           "
 
+   ######################################################################################################
+    
+    
     - title : "Day 2"
       subtitle : "June 21"
       tabContentList:
         # tab content list
-        - time : "6:00 – 7:30 pm"
+        - time : "6:00 – 7:30 p.m."
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
           ### Plenary
 
+
+          **How can technology help overcome the different challenges of education in Algeria?**
+
+          - Saoussen Cheddadi 
+          
+          
+          - Azouaou Faiçal 
+          
+          
+          - Taha Houssine Zerguini
+          
+          
+          - Noureddine Bekkis
           
           "
                
         # tab content list
-        - time : "7:00 – 8:00 pm"
+        - time : "8:00 – 9:00 p.m."
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
-          ### Workshop 2.1
-          
-          "
+          ### Workshop 2
 
-        - time : "21:00 – 21:00"
-          image : "images/about/undraw_co-working_825n.svg"
-          content : "
+
+          **Gérer son enseignement à distance (enseignants)**
+
           
-          ### Workshop 2.2
+          - Kamel Boussafi
           
           "
-          
+######################################################################################################
+    
+    
     - title : "Day 3"
       subtitle : "June 22"
       tabContentList:
         # tab content list
-        - time : "6:00 – 7:30 pm"
+        - time : "6:00 – 7:30 p.m."
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
           ### Plenary
 
+
+          **Formations en ligne : Comment développer l’engagement des apprenants**
+          
+          - Yannig Raffenel
           
           "
                
         # tab content list
-        - time : "7:00 – 8:00 pm"
+        - time : "8:00 – 9:00 p.m."
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
-          ### Workshop 3.1
-          
-          "
+          ### Workshop 3
 
-        - time : "8:00 – 9:00 pm"
-          image : "images/about/undraw_co-working_825n.svg"
-          content : "
+
+          **Organiser son environnement de travail pour apprendre à distance (étudiants)**
+
           
-          ### Workshop 3.2
+          - Salma Bekkouche
           
           "
-          
+       
+######################################################################################################
+    
+    
     - title : "Day 4"
       subtitle : "June 23"
       tabContentList:
         # tab content list
-        - time : "6:00 – 7:30 pm"
+        - time : "6:00 – 7:30 p.m."
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
           ### Plenary
-
           
           "
                
         # tab content list
-        - time : "7:00 – 8:00 pm"
+        - time : "8:00 – 9:00 p.m."
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
-          ### Workshop 4.1
-          
-          "
+          ### Workshop 4
 
-        - time : "8:00 – 9:00 pm"
-          image : "images/about/undraw_co-working_825n.svg"
-          content : "
-          
-          ### Workshop 4.2
           
           "
-          
+                 
+######################################################################################################
+    
+     
     - title : "Day 5"
       subtitle : "June 24"
       tabContentList:
         # tab content list
-        - time : "6:00 – 7:30 pm"
+        - time : "6:00 – 7:30 p.m."
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
           ### Plenary
-
           
           "
                
         # tab content list
-        - time : "7:00 – 8:00 pm"
+        - time : "8:00 – 9:00 p.m."
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
-          ### Workshop 5.1
-          
-          "
+          ### Workshop 5
 
-        - time : "8:00 – 9:00 pm"
-          image : "images/about/undraw_co-working_825n.svg"
-          content : "
-          
-          ### Workshop 5.2
           
           "
-          
+                       
+######################################################################################################
+    
+     
     - title : "Day 6"
       subtitle : "June 25"
       tabContentList:
         # tab content list
-        - time : "6:00 – 7:30 pm"
+        - time : "6:00 – 7:30 p.m."
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
           ### Plenary
-
           
           "
                
         # tab content list
-        - time : "7:00 – 8:00 pm"
+        - time : "8:00 – 9:00 p.m."
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
-          ### Workshop 6.1
-          
-          "
+          ### Workshop 6
 
-        - time : "8:00 – 9:00 pm"
-          image : "images/about/undraw_co-working_825n.svg"
-          content : "
-          
-          ### Workshop 6.2
           
           "
-          
-       
+                      
+######################################################################################################
+    
+     
     - title : "Day 7"
       subtitle : "June 26"
       tabContentList:
         # tab content list
-        - time : "6:00 – 7:30 pm"
+        - time : "6:00 – 8:00 p.m."
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
-          ### Workshop 7
-
+          ### Plenary
           
           "
-               
-        # tab content list
-        - time : "7:00 – 8:30 pm"
-          image : "images/about/undraw_shared_workspace_hwky.svg"
-          content : "
-          
-          ### Closing Plenary
-          
-          "
-
-       
-          
+      

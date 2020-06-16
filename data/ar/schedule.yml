@@ -13,7 +13,21 @@ schedule:
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
-          ### Opening Planary
+           ###  الجلسة 
+
+
+          **Forces of Change in the Digital Age**
+
+          - Kamal Youcef Toumi
+
+
+          - Yacine Oualid
+
+
+          - Leah Bitat
+
+
+          - Fatima Zohra Benhamida
 
           
           "
@@ -23,7 +37,19 @@ schedule:
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
-          ### workshop 1.1
+          ### الورشة 1
+
+
+          **Guidelines for offering distance-learning classes**
+
+          
+          - Saoussen Cheddadi
+          
+          
+          - Kindi Rezig 
+          
+          
+          - Sohaib Lafifi
           
           "
 
@@ -31,29 +57,42 @@ schedule:
       subtitle : "21 جوان"
       tabContentList:
         # tab content list
-        - time : "18:00 – 19:00"
+        - time : "18:00 – 19:30"
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
-          ### Planary
+          ### الجلسة 
+
+
+          **How can technology help overcome the different challenges of education in Algeria?**
+
+          - Saoussen Cheddadi 
+          
+          
+          - Azouaou Faiçal 
+          
+          
+          - Taha Houssine Zerguini
+          
+          
+          - Noureddine Bekkis
 
           
           "
                
         # tab content list
-        - time : "19:00 – 20:00"
+        - time : "20:00 – 21:00"
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
-          ### workshop 2.1
-          
-          "
+          ### الورشة 2
 
-        - time : "21:00 – 21:00"
-          image : "images/about/undraw_co-working_825n.svg"
-          content : "
+
+          **Gérer son enseignement à distance (enseignants)**
+
           
-          ### workshop 2.1
+          - Kamel Boussafi
+          
           
           "
           
@@ -65,7 +104,12 @@ schedule:
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
-          ### Planary
+          ### الجلسة 
+
+
+          **Formations en ligne : Comment développer l’engagement des apprenants**
+          
+          - Yannig Raffenel
 
           
           "
@@ -75,23 +119,20 @@ schedule:
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
-          ### workshop 3.1
-          
-          "
+          ### الورشة 3
 
-        - time : "21:00 – 21:00"
-          image : "images/about/undraw_co-working_825n.svg"
-          content : "
+
+          **Organiser son environnement de travail pour apprendre à distance (étudiants)**
+
           
-          ### workshop 3.2
-          
+          - Salma Bekkouche
           "
           
     - title : "اليوم 4"
       subtitle : "23 جوان"
       tabContentList:
         # tab content list
-        - time : "18:00 – 19:00"
+        - time : "18:00 – 19:30"
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
@@ -101,27 +142,20 @@ schedule:
           "
                
         # tab content list
-        - time : "19:00 – 20:00"
+        - time : "20:00 – 21:00"
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
-          ### workshop 4.1
+          ### الورشة 4
           
           "
 
-        - time : "21:00 – 21:00"
-          image : "images/about/undraw_co-working_825n.svg"
-          content : "
-          
-          ### workshop 4.2
-          
-          "
           
     - title : "اليوم 5"
       subtitle : "24 جوان"
       tabContentList:
         # tab content list
-        - time : "18:00 – 19:00"
+        - time : "18:00 – 19:30"
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
@@ -131,27 +165,19 @@ schedule:
           "
                
         # tab content list
-        - time : "19:00 – 20:00"
+        - time : "20:00 – 21:00"
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
-          ### workshop 5.1
+          ### الورشة 5
           
           "
 
-        - time : "21:00 – 21:00"
-          image : "images/about/undraw_co-working_825n.svg"
-          content : "
-          
-          ### workshop 5.2
-          
-          "
-          
     - title : "اليوم 6"
       subtitle : "25 جوان"
       tabContentList:
         # tab content list
-        - time : "18:00 – 19:00"
+        - time : "17:00 – 19:30"
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
@@ -161,42 +187,26 @@ schedule:
           "
                
         # tab content list
-        - time : "19:00 – 20:00"
+        - time : "20:00 – 21:00"
           image : "images/about/undraw_shared_workspace_hwky.svg"
           content : "
           
-          ### workshop 6.1
+          ### الورشة 6
           
           "
 
-        - time : "21:00 – 21:00"
-          image : "images/about/undraw_co-working_825n.svg"
-          content : "
-          
-          ### workshop 6.2
-          
-          "
           
        
     - title : "اليوم 7"
       subtitle : "26 جوان"
       tabContentList:
+       
         # tab content list
-        - time : "18:00 – 19:00"
+        - time : "18:00 – 20:00"
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
-          ### workshop 7
-
-          
-          "
-               
-        # tab content list
-        - time : "19:00 – 21:00"
-          image : "images/about/undraw_shared_workspace_hwky.svg"
-          content : "
-          
-          ### Closing Planary
+          ### جلسة الاختتام
           
           "
 
