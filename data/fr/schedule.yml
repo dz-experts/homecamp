@@ -16,7 +16,7 @@ schedule:
           ###  Plénière d’ouverture
 
           
-          **Forces of Change in the Digital Age**
+          **Forces du Changement à l'ère digitale**
 
           - Kamal Youcef Toumi
 
@@ -38,7 +38,7 @@ schedule:
           
           ### Atelier 1
           
-           **Guidelines for offering distance-learning classes**
+           **Guides pratiques pour bien mener votre enseignement à distance**
 
           
           - Saoussen Cheddadi
@@ -60,7 +60,7 @@ schedule:
           ### Plénière
           
           
-          **How can technology help overcome the different challenges of education in Algeria?**
+          **Comment la téchnologie peut aider à surmonter les défis de l'éducation en Algérie ?**
 
           - Saoussen Cheddadi 
           
@@ -116,13 +116,6 @@ schedule:
           - Salma Bekkouche
           "
 
-        - time : "21:00 – 21:00"
-          image : "images/about/undraw_co-working_825n.svg"
-          content : "
-          
-          ### Atelier 3.2
-          
-          "
           
     - title : "Jour 4"
       subtitle : "23 Juin"
@@ -134,6 +127,10 @@ schedule:
           
           ### Plénière
 
+          **Mental support and ergonomics for students, teachers and parents**
+
+          - Abduallah Boudiaf
+
           
           "
           
@@ -143,7 +140,11 @@ schedule:
           content : "
           
           ### Atelier 4
-          
+
+          **Comment former aux compétences du 21ème siècle dont l'industrie a besoin ?**
+
+          - Isabelle BOUVIER
+
           "
           
     - title : "Jour 5"
@@ -156,6 +157,15 @@ schedule:
           
           ### Plénière
 
+          **Comment peut-on fortifier la relation Industrie/Recherche ?**
+
+          - Farouk Yalaoui
+
+          - Lachemi Mohammed
+
+          - Ryadh Brahimi
+
+          - Nourredine Ouadah
           
           "
                
@@ -165,7 +175,14 @@ schedule:
           content : "
           
           ### Atelier 5
+
+          **Comment le numérique a démocratisé l'implication des enterprises dans la formation des étudiants  /**
           
+          **Pédagogie inversée**
+
+          - Mohammed Bougaa
+
+          - Sohaib Lafifi
           "
           
     - title : "Jour 6"
@@ -178,7 +195,15 @@ schedule:
           
           ### Plénière
 
+          **A-t-on besoin de partir à l'étranger pour acquérir des compétences de pointe ?**
+
           
+          - Kamal Youcef Toumi
+
+
+          - Michel Patry
+
+          - Curt Newton
           "
                
 
@@ -187,7 +212,10 @@ schedule:
           content : "
           
           ### Atelier 6
+
+          **Année préparatoire et les alternatives à l'enseignement supérieur en Algérie**
           
+           - Lyes Abdelaziz 
           "
           
        
@@ -202,6 +230,8 @@ schedule:
           content : "
           
           ### Plénière de clôture
+
+          **Le futur de l'éducation en Algérie**
           
           "
 

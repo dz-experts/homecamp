@@ -89,7 +89,7 @@ schedule:
           ### Workshop 2
 
 
-          **Gérer son enseignement à distance (enseignants)**
+          **Managing distance education (for teachers)**
 
           
           - Kamel Boussafi
@@ -109,7 +109,7 @@ schedule:
           ### Plenary
 
 
-          **Formations en ligne : Comment développer l’engagement des apprenants**
+          **Distance learning: How to cultivate students' engagement**
           
           - Yannig Raffenel
           
@@ -123,7 +123,7 @@ schedule:
           ### Workshop 3
 
 
-          **Organiser son environnement de travail pour apprendre à distance (étudiants)**
+          **Setting up your work environment for distance learning (for students)**
 
           
           - Salma Bekkouche
@@ -142,6 +142,10 @@ schedule:
           content : "
           
           ### Plenary
+
+          **Mental support and ergonomics for students, teachers and parents**
+
+          - Abduallah Boudiaf
           
           "
                
@@ -151,6 +155,10 @@ schedule:
           content : "
           
           ### Workshop 4
+
+          **How to train students today for tomorrow's job market**
+
+          - Isabelle BOUVIER
 
           
           "
@@ -167,6 +175,17 @@ schedule:
           content : "
           
           ### Plenary
+
+          **How can we improve the Industrial/Education/Reseach system relationships ? What new skills are required by industry ?**
+
+          - Farouk Yalaoui
+
+          - Lachemi Mohammed
+
+          - Ryadh Brahimi
+
+          - Nourredine Ouadah
+
           
           "
                
@@ -176,6 +195,15 @@ schedule:
           content : "
           
           ### Workshop 5
+          
+          **How digitalization has placed companies at the heart of the students' learning experience /**
+
+          
+          **Flipped classroom**
+
+          - Mohammed Bougaa
+
+          - Sohaib Lafifi
 
           
           "
@@ -192,7 +220,15 @@ schedule:
           content : "
           
           ### Plenary
+
+          **Do we need to go outside Algeria to get cutting-edge know-how?**
           
+          - Kamal Youcef Toumi
+
+
+          - Michel Patry
+
+          - Curt Newton
           "
                
         # tab content list
@@ -202,6 +238,9 @@ schedule:
           
           ### Workshop 6
 
+          **Prep Year abd the alternatives to higher education for students in Algeria**
+
+          - Lyes Abdelaziz 
           
           "
                       
@@ -216,7 +255,9 @@ schedule:
           image : "images/about/undraw_video_call_kxyp.svg"
           content : "
           
-          ### Plenary
+          ### Closing Plenary
+          
+          **The future of Education in Algeria**
           
           "
       

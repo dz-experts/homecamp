@@ -16,7 +16,7 @@ schedule:
            ###  الجلسة 
 
 
-          **Forces of Change in the Digital Age**
+          **قوى التغيير في العالم الرقمي**
 
           - Kamal Youcef Toumi
 
@@ -40,7 +40,7 @@ schedule:
           ### الورشة 1
 
 
-          **Guidelines for offering distance-learning classes**
+          **دليل عملي لإعداد دروس عن بعد**
 
           
           - Saoussen Cheddadi
@@ -64,7 +64,7 @@ schedule:
           ### الجلسة 
 
 
-          **How can technology help overcome the different challenges of education in Algeria?**
+          **كيف يمكن للتكنولوجيا أن تساعد في مواجهة تحديات التعليم في الجزائر؟**
 
           - Saoussen Cheddadi 
           
@@ -88,7 +88,7 @@ schedule:
           ### الورشة 2
 
 
-          **Gérer son enseignement à distance (enseignants)**
+          **إدارة التعليم عن بعد (للأساتذة)**
 
           
           - Kamel Boussafi
@@ -107,7 +107,7 @@ schedule:
           ### الجلسة 
 
 
-          **Formations en ligne : Comment développer l’engagement des apprenants**
+          **التكوين عن بعد: كيف يمكن تطوير مشاركة الطلّاب**
           
           - Yannig Raffenel
 
@@ -122,7 +122,7 @@ schedule:
           ### الورشة 3
 
 
-          **Organiser son environnement de travail pour apprendre à distance (étudiants)**
+          **تنظيم بيئة العمل للتعلّم عن بعد (موجّه للطلّاب)**
 
           
           - Salma Bekkouche
@@ -138,7 +138,9 @@ schedule:
           
           ### Planary
 
+          **الدعم النّفسي وبيئات العمل للطلاب والمعلمين وأولياء الأمور**
           
+          - Abduallah Boudiaf
           "
                
         # tab content list
@@ -147,7 +149,11 @@ schedule:
           content : "
           
           ### الورشة 4
+
+
+          **كيف يتم تكوين المهارات الشخصيّة في مجال التوظيف في القرن 21؟**
           
+          - Isabelle BOUVIER
           "
 
           
@@ -161,6 +167,15 @@ schedule:
           
           ### Planary
 
+          **كيف يمكننا تحسين العلاقات بين المؤسسات/التكوين/البحث العلمي ؟ ما هي المهارات الشخصية الجديدة المطلوبة في مجال العمل ؟**
+
+          - Farouk Yalaoui
+
+          - Lachemi Mohammed
+
+          - Ryadh Brahimi
+
+          - Nourredine Ouadah
           
           "
                
@@ -171,6 +186,12 @@ schedule:
           
           ### الورشة 5
           
+          **الاستعانة بالرّقمنة لوضع خطة للتعلم القائم على المشاريع، بمشاركة المؤسسات./البيداغوجية العكسيّة.**
+          
+
+          - Mohammed Bougaa
+
+          - Sohaib Lafifi
           "
 
     - title : "اليوم 6"
@@ -183,6 +204,15 @@ schedule:
           
           ### Planary
 
+          **هل يجب الدراسة في الخارج للحصول على شهادات أجنبية ؟**
+
+
+          - Kamal Youcef Toumi
+
+
+          - Michel Patry
+
+          - Curt Newton
           
           "
                
@@ -192,7 +222,11 @@ schedule:
           content : "
           
           ### الورشة 6
+
+          **السنة التحضيرية وبدائل التعليم العالي للطلاب في الجزائر؟**
           
+          - Lyes Abdelaziz 
+
           "
 
           
@@ -208,6 +242,11 @@ schedule:
           
           ### جلسة الاختتام
           
+          **مستقبل التعليم في الجزائر**
+
+
+
+
           "
 
        
