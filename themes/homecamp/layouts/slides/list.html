@@ -1,0 +1,57 @@
+{{ define "main" }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ partial "page-title.html" . }}
+
+  {{ with $data.slides.slides }}
+  <section class="section slides">
+    <div class="container">
+      <div class="row justify-content-center mb-5">
+        <div class="col-lg-8">
+          <div class="heading">
+            <span class="stroke-text">{{ .titleOutline }}</span>
+            <h3 class="mb-4 h2 mt-2 text-primary">{{ .title | markdownify }}</h3>
+          </div>
+        </div>
+        
+      </div>
+      <div class="row justify-content-center">
+        <div class="col-lg-8">
+          <div class="heading">
+            <p>{{ .content | markdownify }}</p>
+          </div>
+        </div>
+        {{ end }}
+        <div class="col-lg-4">
+          {{ .TableOfContents }}    
+        </div>
+        
+      </div>
+    </div>
+
+</section>
+<section class="section slides">
+  <div class="container mb-10">
+
+
+      <div class="row justify-content-center">
+        <div class="col-lg-12">
+         
+          <div class="mb-4">
+            <p>{{ .Content  }}</p>
+          </div>
+         
+        </div>
+        
+
+        <!-- <div class="col-lg-8">
+          <div class="info">
+            <h4 class="mt-5 mb-4">Need Any further Support?</h4>
+            <a href="contact" class="btn btn-hero btn-rounded">Contact us</a>
+          </div>
+        </div> -->
+      </div>
+    </div>
+    </section>
+
+{{ end }}
