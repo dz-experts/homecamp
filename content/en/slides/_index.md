@@ -16,3 +16,5 @@ bgImage : "images/bg/cta-bg.jpg"
 - [MIT OpenCourseWare](https://drive.google.com/file/d/1SB14kUoV_nlkUC11TCdF4C5BrdDEoOZE/view?usp=sharing) by Curt Newton
 
 - [Blended Learning](https://drive.google.com/file/d/1XZinBX6w6rF8TkFaic9OI9gTKXN52jpZ/view?usp=sharing) by Yannig Raffenel
+
+- [Le Design Thinking pour les enseignants](https://drive.google.com/file/d/1qHk8CAVsYBXbo__kek3f8NZvT4rJ37X-/view?usp=sharing) by Ghani Kolli 
