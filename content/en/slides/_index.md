@@ -18,3 +18,5 @@ bgImage : "images/bg/cta-bg.jpg"
 - [Blended Learning](https://drive.google.com/file/d/1XZinBX6w6rF8TkFaic9OI9gTKXN52jpZ/view?usp=sharing) by Yannig Raffenel
 
 - [Le Design Thinking pour les enseignants](https://drive.google.com/file/d/1qHk8CAVsYBXbo__kek3f8NZvT4rJ37X-/view?usp=sharing) by Ghani Kolli 
+
+- [How digitalization has placed companies at the heart of the students’ learning experience / Flipped classroom](https://drive.google.com/file/d/169_9qnyEAKzI5P_KPAGvjSp0eNfaQgKd/view?usp=sharing) by par Mohammed Bougaa and Sohaib LAFIFI
